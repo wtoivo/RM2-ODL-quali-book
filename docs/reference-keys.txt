@@ -1,9 +1,2 @@
-fig:plot-text-labels
-fig:plot-text-labels-facet
-fig:plot-shapes
-inclusion
-tips-for-text-readers
-resources-for-blind-coders
-dyslexia-friendly-resources
-colour
-sex-gender-and-sexuality
+chapter-1
+chapter-2
