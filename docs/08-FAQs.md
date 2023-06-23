@@ -1,9 +1,10 @@
-# Frequently Asked Questions
+# Frequently Asked Questions 
+
+This page was last updated 23/06/23
 
 ## General Project questions
 
-1.I'm not sure how the qualitative portfolio and the qualitative report work
-together - should we focus on one before looking at the other?*
+### 1. How do the portfolio and qualitative report work together - should we focus on one before looking at the other?
 
 The qualitative portfolio is designed to support you in developing skills that would be important for actually running qualitative studies (e.g. reflexivity, developing questions, awareness of ethics, awareness of good/bad practice for data collection). The report is
 designed to support you in developing your data analysis skills and then writing up this information into a report.
@@ -12,5 +13,21 @@ Re. the timescales - we would advise that you start working (or at least thinkin
 these deadlines to find something that works for you.
 
 ## Qualitative portfolio questions
+
+### 1. Where can I find information about the qualitative portfolio? (ADD LINKS)
+
+You can find information about the portfolio in the template, the guidelines, the AIS and the video Wil recorded
+
+### 2. What is the word count for each section? (ADD LINKS)
+
+This is in the template, but it can be broken down as follows: Activity 1a (no word limit for the six questions), Activity 1b (250 words), Activity 2 (250 words), Activity 3 (500 words).
+
+### 3. In the answers, should we use or avoid acronyms such as British Psychological Society (BPS) and General Data Protection Regulation (GDPR)?
+
+Usually in your writing you should avoid unnecessary abbreviations unless they are really commonly used, as this makes it harder for the reader to follow your writing. A good general rule of thumb is not to come up with any abbreviations yourself. I would say these two are very common for the context of your assignment so you can use them (this will also help with the word count which is very limited here).
+
+### 4. Do we need to set out an introduction and concluding summary in our responses or can we dive straight into the points identified in direct response to the questions? 
+
+You can dive straight in :)
 
 ## Qualitative report questions

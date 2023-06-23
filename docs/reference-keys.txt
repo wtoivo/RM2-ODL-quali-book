@@ -1,5 +1,5 @@
 qualitative-designs
-chapter-2
+qualitative-questions
 data-collection
 data-analysis
 ethics-rigour-and-reflexivity
@@ -7,5 +7,10 @@ group-project
 qualitative-report
 frequently-asked-questions
 general-project-questions
+how-do-the-portfolio-and-qualitative-report-work-together---should-we-focus-on-one-before-looking-at-the-other
 qualitative-portfolio-questions
+where-can-i-find-information-about-the-qualitative-portfolio-add-links
+what-is-the-word-count-for-each-section-add-links
+in-the-answers-should-we-use-or-avoid-acronyms-such-as-british-psychological-society-bps-and-general-data-protection-regulation-gdpr
+do-we-need-to-set-out-an-introduction-and-concluding-summary-in-our-responses-or-can-we-dive-straight-into-the-points-identified-in-direct-response-to-the-questions
 qualitative-report-questions
