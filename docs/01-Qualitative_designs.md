@@ -11,3 +11,4 @@ Complete the activities below to familiarise yourself with the key differences b
 |---------------------|------------------|
 |Numbers used as data |Words (written and spoken language)<br />
                       |images used as data.
+Something
