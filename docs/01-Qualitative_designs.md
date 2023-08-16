@@ -74,7 +74,7 @@ This study is more likely to be: <select class='webex-select'><option value='bla
 
 <div class='webex-solution'><button>Explain the answer</button>
 
-This study would probably bext be conducted as a qualitative study - the researcher is looking at the motivations of the participants. However, it could also possibly be a quantitative study, if the motivations are measured and quantified on a numeric scale instead of text data.
+This study would probably best be conducted as a qualitative study - the researcher is looking at the motivations of the participants. However, it could also possibly be a quantitative study, if the motivations are measured and quantified on a numeric scale instead of text data.
 
 </div>
 
