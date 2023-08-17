@@ -4,7 +4,7 @@ This page was last updated 23/06/23
 
 ## General Project questions
 
-### How do the portfolio and qualitative report work together - should we focus on one before looking at the other?
+How do the portfolio and qualitative report work together - should we focus on one before looking at the other?
 
 The qualitative portfolio is designed to support you in developing skills that would be important for actually running qualitative studies (e.g. reflexivity, developing questions, awareness of ethics, awareness of good/bad practice for data collection). The report is designed to support you in developing your data analysis skills and then writing up this information into a report.
 
@@ -14,59 +14,57 @@ Re. the timescales - we would advise that you start working (or at least thinkin
 
 ### General portfolio questions
 
-#### Where can I find information about the qualitative portfolio? (ADD LINKS)
+**Where can I find information about the qualitative portfolio? (ADD LINKS)**
 
 You can find information about the portfolio in the template, the guidelines, the AIS and the video Wil recorded
 
-#### What is the word count for each section? (ADD LINKS)
+**What is the word count for each section? (ADD LINKS)**
 
 This is in the template, but it can be broken down as follows: Activity 1a (no word limit for the six questions), Activity 1b (250 words), Activity 2 (250 words), Activity 3 (500 words).
 
-#### In the answers, should we use or avoid acronyms such as BPS and GDPR?
+**In the answers, should we use or avoid acronyms such as BPS and GDPR?**
 
-Usually in your writing you should avoid unnecessary abbreviations unless they are really commonly used, as this makes it harder for the reader to follow your writing. A good general rule of thumb is not to come up with any abbreviations yourself. I would say these two are very common for the context of your assignment so you can use them (this will also help with the word count which is very limited here).
+Usually in your writing you should avoid unnecessary abbreviations unless they are really commonly used, as this makes it harder for the reader to follow your writing. A good general rule of thumb is not to come up with any abbreviations yourself. These two are very common for the context of your assignment so you can use them (this will also help with the word count which is very limited here).
 
-#### Do we need to set out an introduction and concluding summary in our responses to each of the sections?
+**Do we need to set out an introduction and concluding summary in our responses to each of the sections?**
 
 You don't need this - you can dive straight in :)
 
-#### Is it okay for us to take what a study says at face value (i.e. the study says x, which backs up the point)? Or do we have to be critical about the study?
+**Is it okay for us to take what a study says at face value (i.e. the study says x, which backs up the point)? Or do we have to be critical about the study?**
 
 Yes, this is fine - we expect you to use the studies to support the points you are making, rather than critically interrogating how well the study supports the claim. It would not really be possible to do the latter within the word count. This assessment is a bit different to when you are writing a report, for example, where you'd want to show how you are building on the existing literature (to help support your rationale)
 
-#### I can't figure out how to cite the BPS code; examples online are both "BPS,2021" and "Oates et al., 2021"
+**I can't figure out how to cite the BPS code; examples online are both "BPS,2021" and "Oates et al., 2021"**
 
 Cite it as BPS.
 
-#### Is it okay to answer the questions or do we have to make a unique contribution (as you do in an essay or a report)?
+**Is it okay to answer the questions or do we have to make a unique contribution (as you do in an essay or a report)?**
 
 Just doing what you are asked is fine. This is not the same type of assessment as a report or essay as it is focusing on skills needed to run a project, so it will be assessing different things.
 
-#### Should I delete the included instructions from the template document so it's just the headings for each section?
+**Should I delete the included instructions from the template document so it's just the headings for each section?**
 
 Either keeping them or deleting them is fine - whichever you prefer.
 
-#### Can I use guidelines and and strategies for qualitative research from fields other than psychology?
+**Can I use guidelines and and strategies for qualitative research from fields other than psychology?**
 
 Yes, perfectly fine to use these guidelines - you don't have to stick to Psychology. Just make sure that the guidelines apply to the type of research methodology/RQ you are discussing.
 
-#### Is slight variability in word count between the sections allowed as long as the final product is less than 1000?
+**Is slight variability in word count between the sections allowed as long as the final product is less than 1000?**
 
 Yes, there is slight variability allowed - it is overall 1000 but you can change the distribution that is suggested slightly (however, try not to change by more than 30-40 words so you provide the right amount of detail for each section).
 
 ### Task 1: Qualitative questions & reflection
 
-#### To what extent can we refine the sample? The RQ refers to 'students', but could we specify that further by limiting it to only students who have / not sought out mental health support?
+**To what extent can we refine the sample? The RQ refers to 'students', but could we specify that further by limiting it to only students who have / not sought out mental health support?**
 
 Yes, if you want to limit it further, this is fine - we kept it somewhat flexible on purpose so you have a bit of freedom with this.
 
-#### What sort of evidence is relevant in a reflection?
+**What sort of evidence is relevant in a reflection? Is it related to the topic (i.e. of mental health) or is it more about the anticipated problems / other researchers protocol in similar research? Or a bit of both? Should we avoid trying to justify our choices in the reflection, or is that a good thing to do?**
 
-**Is it related to the topic (i.e. of mental health) or is it more about the anticipated problems / other researchers protocol in similar research? Or a bit of both? Should we avoid trying to justify our choices in the reflection, or is that a good thing to do?**
+I think it would make sense if it's more related to methods rather than the topic choice - would be quite good to justify your choices in the reflection.
 
-I think it would make sense if it's more related to methods rather than the topic choice - would be quite good to justify your choices in the reflection I'd think.
-
-#### Would it be a good idea to include a warm up question/ice breaker and a closing question in our six questions?
+**Would it be a good idea to include a warm up question/ice breaker and a closing question in our six questions?**
 
 For the purposes of this assessment, we would suggest just sticking to the six main questions (i.e. not using up two of these for a warm up/exit question). This is because we ask for a limited number, and that way we can keep things consistent across the whole class. One thing you might want to consider is your placement of questions (i.e. the order in which you would ask them).
 

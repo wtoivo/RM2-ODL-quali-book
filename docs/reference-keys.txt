@@ -80,3 +80,10 @@ can-one-of-my-themes-be-my-rq-or-an-interview-question
 can-we-use-a-mixture-of-inductive-and-deductive-approach
 what-if-in-our-analysis-we-end-up-developing-different-themes-the-three-interviews-do-we-have-to-report-only-the-common-themes-or-is-it-ok-if-we-also
 what-if-i-develop-more-than-two-themes---can-i-mention-the-other-themes-in-my-analysis-section
+focus-groups
+interviews
+qualitative-surveys
+activities
+activity-1-which-of-these-questions-would-you-change-and-why
+activity-2-re-wording-questions
+research-skills-session-developing-questions
