@@ -1,1 +1,7 @@
 # Group project
+
+## What is the group project?
+
+## Getting to know each other 
+
+##
