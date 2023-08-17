@@ -1,1 +1,15 @@
 # Data analysis
+
+This chapter has activities to support you with Thematic Analysis.
+
+## Overview of the phases of TA
+
+
+
+## Coding (steps 1-2)
+
+## Developing themes (steps 3-6)
+
+## Developing a narrative
+
+##

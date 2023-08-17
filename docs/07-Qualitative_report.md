@@ -4,6 +4,21 @@ In this section, you will find information and guidance about your qualitative r
 
 ## What is the qualitative report?
 
+You will be asked to write an individual qualitative report on one of three secondary data topics. You should conduct Thematic Analysis on your chosen dataset.
+
+Watch this video (ADD LINK) for an overview about the report, and make sure you have accessed the AIS and FIS on Moodle. 
+
+## Report datasets and how to use UK data service
+
+Before accessing your datasets, watch [THIS VIDEO](https://uofglasgow.zoom.us/rec/play/vsROyrWqPj8G3f21Tff5nCJ4iXOUSGCu7BT7N4xg7zMWIU9tCJPsTT4pEcJfD46tjf01xtdffznX__oq.3cjWmKRYD1qOsQzX?canPlayFromShare=true&from=share_recording_detail&startTime=1676397171000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fuofglasgow.zoom.us%2Frec%2Fshare%2FFtJDqqO9WKzzIZz6exHF2K4FJQJMcHQyrxF-btchS3lUd0q-UY6mYDq1u3zttqzQ.sQK03tO0hhi67guf%3FstartTime%3D1676397171000) on how to use UK data service and for a bit of information about the datasets. Please note that two of the datasets are on sensitive topics, and contain information that may be upsetting; make sure to familiarise yourself with the interview schedules and have a quick scan of the data before you decide which dataset to work with. 
+
+You can access the UK data service [HERE](https://beta.ukdataservice.ac.uk/myaccount/login)
+
+You can choose one of the three available datasets: 
+  1. [Interviews with disabled young people and carers](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=854556)
+  2. [LGBT+ networks in the workplace](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=855322)
+  3. [Incentives of sharing research data](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=851540)
+
 ## Developing a research question
 
 As part of writing up your qualitative report, we ask that you develop a research question to help you guide your enquiry. Here is some guidance on how to get started:
@@ -40,3 +55,12 @@ These questions are now a bit more in line with qualitative and are specific abo
   * **Guiding:** Remember that your RQ guides your enquiry but shouldn't be restrictive  - it's not the case that you are unable to report themes that don't directly answer your RQ. 
   * **Flexibility:** Research questions are more flexible than hypotheses-it is acceptable for the focus of the RQ to be refined during/after data collection.
   
+## Activities to help with writing
+
+### Evaluation in introductions
+
+### Evaluation in discussions
+
+### Thematic analysis evaluation activity
+
+## Qualitative report guide
