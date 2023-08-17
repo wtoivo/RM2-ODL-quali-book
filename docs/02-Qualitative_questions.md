@@ -32,9 +32,18 @@ Many of the rules for good focus group questions also apply to interviews (e.g. 
 
 This is one section from a semi-structured interview schedule Ashley conducted, and is provided purely to give an example of how you might follow up your questions with prompts or probes. Please note that these were sensitive interviews that required NHS ethical approval, and therefore will likely be very different to any research you will be doing during the ODL course in terms of content/tone.
 
-|Questions about receiving anxiety interventions| PROBES|
-|-----------------------------------------------|-------|
-| What help have you received for your anxiety? |What help did you receive in the past? Are you currently receiving help? Who helps/helped you?||
+|Questions about receiving anxiety interventions| PROBES             |
+|-----------------------------------------------|--------------------|
+| What help have you received for your anxiety? | What help did you receive in the past? Are you currently receiving help? Who helps/helped you?|
+|Do you feel as if the help you received (or are receiving) has made any difference to your anxiety? It may have made a positive difference, a negative difference or no difference at all. | Anything else?|
+|What was the best thing about the help you received for your anxiety? | How did it help? Anything else? |
+|What was the worst thing about the help you received for your anxiety? | Can you expand on this? Anything else? | What, in your opinion, would have helped the most when receiving help for your anxiety? | Why would this have helped? Anything else? |
+|Some interventions will be adapted for the specific needs of the client.  Did the help you received seem to be modified in any way?  If so, what changes were made, in your opinion.| If there were changes, were they helpful? What helped the most? If any changes at all could have been made, what would your suggestions be?|
+|If someone was to develop an intervention to help adults with ASD with their anxiety, what would help the most, in your opinion? | What would be the best type of intervention? What changes should be made? What information could you give that would help the person giving the intervention? |
+
+
+
+
 
 ## Qualitative surveys
 
@@ -111,8 +120,82 @@ When you are happy with your own answers, go through the suggested answers below
 </div>
 
   
-## Research skills session: Developing questions
+## OPTIONAL: Research skills session - Developing questions
 
 Ashley has recorded **optional** research skills sessions on different aspects of qualitative research. These sessions take a little bit deeper dive into some of the topics and may be particularly useful if you are planning on doing a qualitative dissertation next year. 
 
-![](https://echo360.org.uk/media/56e4abb3-e58c-4560-897b-18d2eeb91833/public?autoplay=false&automute=false&startTimeMillis=0)
+[Watch the video here](https://echo360.org.uk/media/56e4abb3-e58c-4560-897b-18d2eeb91833/public?autoplay=false&automute=false&startTimeMillis=0)
+
+### Overall structure
+
+It's important to think about the overall structure of an interview or focus group schedule. A good structure to use is: A warm up question, the main questions you want to ask, and an exit question. It is likely particularly important to use a warm up/ice breaker question for a focus group, especially if participants don't know each other particularly well.
+
+**Warm up Question**
+
+The aim is to allow participants to introduce themselves, ensure everyone understands the procedure, and to encourage people to feel comfortable talking. Previous projects have used photos,cartoons, and media, or asked participants to generate meanings of the terms used in the discussion (e.g., “poor sleep”,”well-being”) to get people talking. *What is your idea for an ice breaker that might lead naturally into the main discussion?*
+
+*What makes a good/poor icebreaker?*
+
+Thinking about the points above: *What do you think of the following ice-breakers?*
+
+  * **A FG on lived experience during COVID-19 of international students:** What is your favourite meal from your home country?
+  * **A FG on coping strategies in students:** What do you think is the best way to reduce stress for students?
+  * **A FG on feelings of belonging in a work context:** What do you think about the graphic below? Does it resonate in any way?
+  
+<div class="figure" style="text-align: center">
+<img src="images/belonging.png" alt="Belonging icebreaker" width="100%" />
+<p class="caption">(\#fig:img-belonging)Belonging icebreaker</p>
+</div>
+
+**Main Questions**
+
+Bear in mind that the discussion may wander off track or focus onone aspect. Consider which part of the research question you think is most important to get people to answer. Start with this and be prepared to come back to it at the end if you need to. If you have more sensitive questions in your research schedule, they should be included later on, so people answer them when they are more comfortable.
+
+**What should the questions be like?**
+Avoid asking questions that ask two or three things in one sentence (e.g., about behaviour and impact on mood). Break it down into simpler questions. Limit the number of direct questions that elicit yes/no answers. These can be useful to gather information but are less helpful in generating a discussion. Add in probes/prompts to elicit
+further information if required.
+
+Try to:
+
+1. Frame questions in an open way that will facilitate discussion (e.g. 'do you use facebook?' is closed (can be answered as yes/no) whereas 'can you tell me about your experiences with social media?' is a bit more open - you could then follow up with prompts to specifically ask about types if you want to get that information 
+
+2. Frame questions in a way that is not leading. For example, 'how did lockdown negatively impact on your ability to study?' assumes that it did, when this may not be the case. A better question would be ''Do you think that lockdown restrictions impacted on students' experiences of studying? If so, how?"
+
+3. If you have sensitive questions, try to frame questions in a way that is not personal (i.e. you give people a chance to answer related to themselves, but they can also choose not to (plus it invites people who may not have lived experience to respond), e.g. "How do you take care of yourself when you are anxious" would be better phrased as "How might students support themselves when they are feeling anxious?" This is more important for focus groups, as people might feel put on the
+spot and go beyond their comfort levels
+
+4. Not ask lots of different things within the one question, e.g. "Can you tell us about your experiences of studying in Semester 1, how it made you feel and how that affects your studying in Semester 2?" You could ask about experiences of studying generally, and then could follow up with specific sub-questions asking them about semester 1 and 2, if that is something that was important to you.
+
+**Closing question**
+
+The aim here is to give people an opportunity to add anything that might have been missed in the discussion/to wrap things up.
+
+Examples:
+
+  * Thank you very much for all the great points you had today!
+  * Before we wrap things up, you have any final points that you would like to make, that perhaps wasn't covered in the interview?
+  * Today we covered X, Y, and Z in the focus group. Is there anyone who has any final thoughts about what we covered here today that they'd like to share?
+  * That's us finished with the main part of the focus group. We'd like to end by giving you all an opportunity to add anything that you think is important but has not been covered in the focus group so far. If you'd like to add something, please press raise hand on teams and we can make sure we go round those people before we finish up!
+  
+### Braun & Clarke (2013) activity
+
+Here, we have an adapted version of an interview schedule that is included in the Braun & Clarke (2013) book, on the topic of Partner Relationships. This is purposefully poor. What problems can you spot?
+
+1. If you are not already married, are you planning to get married within the next few years?
+2. I love going to the cinema with my partner, do you?
+3. Do you have a good time with your partner?
+4. Would you go to relate if you had problems in your
+relationship?
+5. When and how did you meet your partner?
+6. Do you earn more money that your partner?
+
+### Further things to consider with qualitative surveys
+
+1. No opportunity for clarity, so wording has to be clear
+2. Similar points to above in terms of not asking too many different things, having a sensible structure
+3. No rapport, unlikely to be an 'ice breaker' (although might have an intro question)
+4. People might be more comfortable answering sensitive
+questions as they can be anonymous
+5. Try not to have lots of questions as your participants will likely lose patience - what are the key things you want to know?
+6. Can use branching e.g. in Qualtrics
+

@@ -27,7 +27,7 @@ Both questions are a bit too quantitative in nature (i.e. 1 is causal and 2 is a
 
 We'd perhaps rephrase these as follows:
 
-1.  are students' perceptions of the relationship between sleep and wellbeing?
+1.  What are students' perceptions of the relationship between sleep and wellbeing?
 2. What are online conversion students' experiences of belonging to University? How do these experiences relate to perceived wellbeing?
 
 These questions are now a bit more in line with qualitative and are specific about what they are asking in each (and also what the group of interest is). The second one covers a bit more than the first, which is why it is split into two (a main RQ and a subsidiary one)
