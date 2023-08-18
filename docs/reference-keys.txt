@@ -64,11 +64,14 @@ activity-2
 group-project
 what-is-the-group-project
 getting-to-know-each-other-in-groups
-activity-1-create-a-group-chat
+getting-organised-in-groups-checklist
+activity-1-create-a-group-chat-and-set-up-an-initial-meeting
 activity-2-introductions
 activity-3-group-agreements
 activity-4-read-the-effective-group-work-document
-section
+activity-5-group-work-planner
+qualitative-portfolio-guidelines-and-materials
+task-1a-qualitative-questions
 qualitative-report
 what-is-the-qualitative-report
 report-datasets-and-how-to-use-uk-data-service

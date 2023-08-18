@@ -4,9 +4,7 @@ In this section, you will find information and guidance about your qualitative r
 
 ## What is the qualitative report?
 
-You will be asked to write an individual qualitative report on one of three secondary data topics. You should conduct Thematic Analysis on your chosen dataset.
-
-Watch this video (ADD LINK) for an overview about the report, and make sure you have accessed the AIS and FIS on Moodle. 
+You will be asked to write an individual qualitative report on one of three secondary data topics. You should conduct Thematic Analysis on your chosen dataset.Watch this video (ADD LINK) for an overview about the report, and make sure you have accessed the AIS and FIS on Moodle before you start working on the report. 
 
 ## Report datasets and how to use UK data service
 

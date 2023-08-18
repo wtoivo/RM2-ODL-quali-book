@@ -2,13 +2,29 @@
 
 ## What is the group project?
 
+In the group project, you will engage in three tasks that are designed to help you build your practical research skills in qualitative research. You will compile your answers to the tasks into a portfolio that you submit to Moodle as a group. Please watch this video (ADD LINK) for an overview of the project, and make sure that you have engaged with the AIS and FIS of the group portfolio before starting any work on it so you know what to expect. 
+
 ## Getting to know each other in groups
 
-This section is designed for you to engage with your group early, get to know each other, and develop some common guidelines for working together before you embark on the group project. If you haven't done so yet, please get in touch with your group now to complete the following activities:
+This section is designed for you to engage with your group early, get to know each other, and develop some common guidelines for working together before you embark on the group project. If you haven't done so yet, please get in touch with your group now to complete the following activities. We have also provided a checklist of things to complete as a group before the start of semester 2.
 
-### Activity 1: Create a group chat
+### Getting organised in groups checklist:
+  * Get in touch with group and make a group chat on Teams
+  * Introduce yourselves
+  * Post group introduction on RM2 channel
+  * Set up a regular check-in time with group
+  * Discuss group agreement and decide together on items to include
+  * Submit group agreement to Moodle (individually)
+  * Read effective group work document and discuss your strengths as a group
+  * Download the group work template and assign tasks 
 
-Get in touch with your group and create a Teams chat. You **MUST** use Teams for all communication about the group project. Do not use any other platforms (such as Whatsapp, WeChat, Facebook etc.) as these can lead to people being excluded.
+### Activity 1: Create a group chat and set up an initial meeting
+
+Get in touch with your group and create a Teams chat. You **MUST** use Teams for all communication about the group project. Do not use any other platforms (such as Whatsapp, WeChat, Facebook etc.) as these can lead to people being excluded.Set up a meeting in which you will discuss Activity 3 from this chapter. After the initial meeting, set up a regular check-in time. This doesn't necessarily need to be a meeting every time, you can also do it over text. You will need to coordinate between time zones/work calendars/other responsibilities 
+
+*DO:* Communicate regularly and be clear about where and how you are going to communicate about the group project. Be proactive if you are having a busy time and let your group know.
+
+*DON'T:* Disappear and stop talking to your group if you're having a hard time (if something happens and you don't feel comfortable sharing with your group, you can let the course leads know). Don't agree to meeting times that don't suit you.
 
 ### Activity 2: Introductions
 
@@ -40,6 +56,32 @@ Here is a list of items you may want to discuss with your group and add to the g
 
 This document can be used as a checklist to do the group work for your qualitative portfolio. Give it a read and then discuss it with your group once you have your initial meeting. The effective group work guide can be found [HERE](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EZCuPb2m-MFMtAIGTAb2eM4B_ateTxqyR5X6YLceaL2Qcg?e=XeHk9h)
 
+### Activity 5: Group work planner
+
+You can access the planner template [HERE](https://tasks.office.com/gla.onmicrosoft.com/en-US/Home/Planner#/plantaskboard?groupId=07b6cc49-f02c-464d-a1f8-9a2c16e6b979&planId=XzmYoIr61k6qycSEWwbY6JYABfM1). Make one for your group, discuss the tasks together and assign them to members of your group.
+
+You MUST use the planner to coordinate your project  - in the event we need to mediate difficulties or evaluate the equity of peer contributions, this will involve you giving staff access to your project planner and/or providing other evidence as record/evidence of collaboration (or lack thereof). Please be mindful of this when conducting your project.
+
+Work back from the deadline to establish tasks and when they need to be done. Discuss your strengths and what each person in the group would like to do.
+
+## Qualitative portfolio guidelines and materials
+
+You will complete three tasks: Qualitative questions (Task 1a and 1b), Ethics (Task 2) and Terrible focus group (Task 3). Below, you will find information and the required materials to complete each task
+
+### Task 1a: Qualitative questions
+
+Below, you will find a brief overview of a study topic. In this task, we would like you to imagine that you are collecting data for this qualitative study. A variety of different data collection methods are possible (e.g. interview, focus group, open-ended survey questions). Thinking about the topic and research question presented below, please develop **SIX** questions that you would ask your participants to gather data on the topic of interest. Your questions should be open-ended, clear, concise and appropriate, and the order that they are presented in should make sense. Your aim is to develop questions that would be likely to generate open discussion and rich responses from participants.
+
+**Please note: This section (1a) does not contribute towards the 1000 word count for the assessment.**
+
+<div class="info">
+<p><strong>Study overview</strong></p>
+<p>Universities provide support for students, and this support can come in many forms, from free counselling services to well-being advisors (Raunic &amp; Xenos, 2008).</p>
+<p>In one study, it was reported that only 3% of students used their university counselling service, and only 5% of those who were characterised as vulnerable based on questionnaire scores, used the services (Cooke et al., 2006). This suggests that the majority of students did not make use of services available.</p>
+<p>There are many reasons why students may not choose to seek help, including being unaware of services, low socio-economic status, being from different cultural background, embarrassment about having to seek help, and scepticism about the services (Eisenberg et al., 2007; Gulliver et al., 2010).</p>
+<p>Another issue around seeking support is that many who do chose to get help, have to wait long periods for appointments (Mowbray et al., 2006). In a recent article reported in the Independent, a waiting time of 4 months was cited for some universities. These delays to support, can lead to emergence of mental health crises situations. Unfortunately, in this the University of Glasgow had one of the longest wait times for counselling (Buchan, 2018).</p>
+<p><em>Research question: What are student’s views on how universities can support students and their mental health needs?</em></p>
+</div>
 
 
-##
+
