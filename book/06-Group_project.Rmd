@@ -2,7 +2,7 @@
 
 ## What is the group project?
 
-In the group project, you will engage in three tasks that are designed to help you build your practical research skills in qualitative research. You will compile your answers to the tasks into a portfolio that you submit to Moodle as a group. Please watch this video (ADD LINK) for an overview of the project, and make sure that you have engaged with the AIS and FIS of the group portfolio before starting any work on it so you know what to expect. 
+In the group project, you will engage in three tasks that are designed to help you build your practical research skills in qualitative research. You will compile your answers to the tasks into a portfolio that you submit to Moodle as a group. Please watch this video (ADD LINK) for an overview of the project, and make sure that you have engaged with the AIS and FIS (ADD LINKS) of the group portfolio before starting any work on it so you know what to expect. 
 
 ## Getting to know each other in groups
 
@@ -12,7 +12,7 @@ This section is designed for you to engage with your group early, get to know ea
   * Get in touch with group and make a group chat on Teams
   * Introduce yourselves
   * Post group introduction on RM2 channel
-  * Set up a regular check-in time with group
+  * Set up a regular check-in time and/or meeting with group
   * Discuss group agreement and decide together on items to include
   * Submit group agreement to Moodle (individually)
   * Read effective group work document and discuss your strengths as a group
@@ -88,5 +88,29 @@ Another  issue around seeking support is that many who do chose to get help,  ha
 *Research question:  What are student’s views on how universities can support students and their mental health needs?*
 ```
 
+### Task 1b: Qualitative questions reflection
 
+For task 1B, please reflect on your experience of generating the questions in task 1A. Do you think they would achieve what you want to achieve? Why or why not? Was it easier or harder than you expected? Please link to the evidence base in your answer (suggested word count: 250 words)
+
+
+### Task 2: Ethics
+
+With the Open Science movement, the use of Open, secondary datasets has become a more popular way of conducting research. You've learnt about the importance of Open data in terms of reproducibility and replicability for quantitative research in RM1 - however, the benefits and challenges of Open data are quite different in qualitative research and there are a number of ethical issues associated with sharing qualitative research data openly. For task 2 of your portfolio, we would like you to **identify one ethical issue** associated with the sharing and/or use of open qualitative data, and discuss why it is an issue, and how it could be mitigated. In your response, you should cite relevant literature on the use of open qualitative data, as well as the [BPS code of Ethics](https://cms.bps.org.uk/sites/default/files/2022-06/BPS%20Code%20of%20Human%20Research%20Ethics%20(1).pdf) (suggested word count 250 words)
+
+
+### Task 3: Focus group gone wrong
+
+Here is a short video from a fictional focus group that is conducted very badly (*please note this video is created only for the purposes of this assessment, is not from a real focus group, and should not be shared outside of this course!*).
+
+Your task is to **identify two or three issues with how the focus group is run** and discuss why they are problematic and outline possible ways to improve them. In your response, you should cite relevant literature to support your ideas.
+
+Access the Focus Group gone wrong recording [HERE](https://echo360.org.uk/media/f51c8477-94cd-4a0e-88a8-0a133dd8d21e/public)
+
+### Where to get guidance for the portfolio tasks?
+
+You should make sure you are up to date on Ashley's lectures on qualitative research. Further, some of the chapters in this book have activities and information which will be helpful in completing the portfolio:
+
+  * [Chapter 2 on Qualitative questions](https://wtoivo.github.io/RM2-ODL-quali-book/qualitative-questions.html)
+  * [Chapter 3 on Data collection](https://wtoivo.github.io/RM2-ODL-quali-book/data-collection.html)
+  * [Chapter 5 on Ethics](https://wtoivo.github.io/RM2-ODL-quali-book/ethics-rigour-and-reflexivity.html) 
 

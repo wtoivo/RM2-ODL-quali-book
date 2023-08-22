@@ -189,6 +189,75 @@ relationship?
 5. When and how did you meet your partner?
 6. Do you earn more money that your partner?
 
+
+<div class='webex-solution'><button>Show me the solution</button>
+
+**In general**
+Overall, the interview schedule lacks coherence – it covers a wide range of different topics, and it’s not clear what the focus of the interview is. The ordering of the questions is also very poor (very sensitive questions early in the interview; moving straight from questions about positive aspects of the relationship to relationship difficulties). The researchers should decide on the focus of their research, and their research question, and design the interview schedule with these in mind. The schedule should also be reordered so it starts with less sensitive questions (these should be moved to later in the interview) and the questions flow logically. The interview should also end with a general ‘clean-up’ question (e.g., ‘Is there anything else you would like to add?’). (NB. Our answers to this exercise assume that the research is being conducted in Britain) 
+
+ 
+
+**Question 1** 
+
+*Problems*
+First, this is a closed question which does not encourage participants to provide rich and detailed answers. Second, unless the researcher already has quite a bit of information about the participant, it is not an ideal opening interview question because it makes a number of problematic and potentially alienating assumptions, which may damage rapport. For example, unless the study is specifically focused on heterosexual couples (‘partner relationships’ suggests a inclusive focus), or the researcher already knows how the participants identify their sexuality, assuming that people are married, or asking whether they are planning to marry, when marriage is not legally available to same-sex couples, reinforces heteronormativity. Furthermore, unless the research is specifically focused on marriage, asking whether people are ‘planning to get married’ assumes a particular model of relationships whereby marriage (and civil partnership) is treated as the ‘gold standard’ of relationships, the ideal end-point of a couple’s relational journey, and not everyone views marriage in this way (some couples are critical of marriage and choose actively not to get married). 
+
+*Solutions* 
+The question needs to be reworded so that it is inclusive of same-sex and heterosexual relationships and does not ‘buy into’ assumptions about marriage as gold standard of relationships. The question should also be reworded as an open question and probably moved to later in the interview. 
+
+ 
+
+**Question 2** 
+
+*Problems*
+Again, a closed question and extremely leading – it invites the participant to agree with the researcher’s preferences! This is not the best way of accessing participants’ perspectives. 
+
+*Solutions*
+Reword the question so that it is open and not leading (do not use the researcher’s preferences in this way). 
+
+ 
+**Question 3**
+
+*Problems*
+Again closed, and rather vague (what constitutes a ‘good time’?). 
+
+*Solutions* 
+Reword the question so that it is open and more concrete. 
+
+ 
+**Question 4**
+
+*Problems* 
+Again closed, and assumes that the participants know what Relate it (a UK charity that that offers relationship counselling and sex therapy to heterosexual and same-sex couples experiencing relationship difficulties). Making assumptions about what the participants know (and don’t know) can alienate participants (making them feel stupid for not knowing) and damage rapport. Moreover, Relate is not the only provider of relationship counselling in the UK. 
+
+*Solutions*
+Replace this with an open question and one that does not make assumptions about the participants’ knowledge (e.g., ‘relationship counselling’ is a good substitute for Relate). 
+
+ 
+
+**Question 5** 
+
+*Problems* 
+Again, a double-barrelled question and also one that would work better earlier in the interview. 
+
+*Solutions*
+Reword the question to remove the double-barrelled element (decide what is more important to know when [how long ago] they met their partner or how they met them?). This would work better as the opening interview question (it makes little sense to ask questions 1-6 before asking this question) because it is a relatively ‘gentle’ question and possibly one that participants would be expecting to answer in an interview on partner relationships. It provides participants with an opportunity to ‘tell the story’ of their current relationship at the start of the interview. 
+
+
+**Question 6**
+
+*Problems* 
+Again a closed question and also a very sensitive one! 
+
+*Solutions*
+Again, this needs to be replaced with a more open question that invites detailed responses. The researcher should reflect on what they want to know and how this question relates to their research question. 
+
+ 
+
+</div>
+
+
+
 ### Further things to consider with qualitative surveys
 
 1. No opportunity for clarity, so wording has to be clear

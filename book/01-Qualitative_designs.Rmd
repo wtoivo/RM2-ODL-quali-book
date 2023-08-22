@@ -49,10 +49,10 @@ This study would best be conducted as a quantitative study - the data will be qu
 
 3. Sally is conducting a study where she is interested in the effects of violence on TV on children.
 
-This study is more likely to be: `r mcq(c("Qualitative", answer= "Quantitative"))`
+This study is more likely to be: `r mcq(c(answer="Qualitative", answer= "Quantitative"))`
 
 `r hide("Explain the answer")`
-This study would be quantitative - the researcher is interested in a causal relationship
+This study could be either quantitative or qualitative depending on how it's set up - if the researcher is interested in a causal relationship and measures the effects numerically, the study would be quantitative. However, if the researcher for example does interviews with parents and wants to find out their experiences and perceptions more in depth, the study could also be qualitative.
 `r unhide()`
 
 4. James is conducting a study where he wants to better understand motivations for smoking among teenagers.

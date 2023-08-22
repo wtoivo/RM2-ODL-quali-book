@@ -1,13 +1,15 @@
 # Data analysis
 
-This chapter has activities to support you with Thematic Analysis.We advise using Braun & Clarke (2006) to structure your data analysis. This can be accessed through the library, using the following link: https://tinyurl.com/ybrsf5eg. There is also a good overview in Braun & Clarke (2013), which is on the reading list.
+This chapter has activities to support you with Thematic Analysis. This chapter, alongside with Ashley's lectures, will talk you through the six steps required for TA; we advise using Braun & Clarke (2006) to structure your data analysis. This can be accessed through the library, using the following link: https://tinyurl.com/ybrsf5eg. There is also a good overview in Braun & Clarke (2013), which is on the reading list.
 
+**Overview of the steps of TA**
 
-
-## Overview of the phases of TA
-
-
-
+  1. Familiarisation with the data
+  2. Generating initial codes
+  3. Searching for themes
+  4. Reviewing themes
+  5. Defining and naming themes
+  6. Producing the report
 
 
 ## Coding (steps 1-2)
@@ -22,9 +24,7 @@ Here, we'll focus on Steps 1 and 2 of the process. These can be found on pages 8
 
 **Practical steps:**
 
-Read through your transcript and take notes and/or make
-comments in the margins. Generate a list of ideas: what is
-interesting about the discussion?
+Read through your transcript and take notes and/or make comments in the margins. Generate a list of ideas: what is interesting about the discussion?
 
 ### Step 2: Generating initial codes
 
@@ -67,8 +67,7 @@ Have a look at this example of coding (using Thematic Analysis) from Braun & Cla
 
 Think about the following:
 
-Do you agree/disagree with the codes that the authors have
-chosen? Which ones, and why? Are there any additional codes that you think might be worthy of consideration?
+Do you agree/disagree with the codes that the authors have chosen? Which ones, and why? Are there any additional codes that you think might be worthy of consideration?
 
 #### Activity 2: Try it yourself!
 
@@ -79,8 +78,7 @@ differences?
 
 ## Developing themes (steps 3-6)
 
-Here, we'll focus on Steps 3 to 6 of the process. These can be found on pages 89-93 of this paper. We also covered how to do Step 3 in in the lecture for Semester 1 Week 11, while Steps 4-6 were  Semester 1 Week 12. For these activities, you are welcome to do them individually or in pairs/small groups  - whichever you
-prefer!
+Here, we'll focus on Steps 3 to 6 of the process. These can be found on pages 89-93 of the Braun & Clarke (2006) paper. We also covered how to do Step 3 in in the lecture for Semester 1 Week 11, while Steps 4-6 were  Semester 1 Week 12. For these activities, you are welcome to do them individually or in pairs/small groups  - whichever you prefer!
 
 ### Step 3: Searching for themes
 
@@ -170,8 +168,7 @@ Thematic Analysis requires an active approach from an analyst. It is your role t
 
 One point to note: Remember that **themes do not emerge**  - this suggests that they are lying in wait for you to discover them, and that the same themes would come up regardless of the analyst. This is not the case  - your experiences and interpretations will affect the themes you end up with.
 
-When you present your data in the analysis section, you will have a) your list of themes and b) your quotes. It is your job to combine these with analytical commentary, in order to tell the story of your data. It's not enough to present the themes and then back these up with quotes  - your job is to add in a narrative that brings the
-themes and the evidence (i.e. quotes) together.
+When you present your data in the analysis section, you will have a) your list of themes and b) your quotes. It is your job to combine these with analytical commentary, in order to tell the story of your data. It's not enough to present the themes and then back these up with quotes  - your job is to add in a narrative that brings the themes and the evidence (i.e. quotes) together.
 
 **Semantic and latent analysis**
 
@@ -197,6 +194,8 @@ To explore differences between semantic and latent coding, as well as analysing 
 #### Activity 2: Analysing vs. summarising
 Read pages 8-12 from [this thematic analysis](https://study.sagepub.com/sites/default/files/anderson_clarke_reflective_commentary.pdf) on skin-picking. Here, the authors report three themes and then have a reflection at the bottom. Try to identify where the authors have gone beyond paraphrasing  - discuss in your groups/pairs if you can.
 
+#### Activity 3: Evaluating analysis and discussion sections
+Do [THIS EXERCISE](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EUiKwKgdqr1CsLeOxy5O42kBGNLxmbdeTqANFRu0caPcBA?e=BpEpBb) on evaluating analysis sections of published papers.
 
 ## Checklist for a good TA
 
@@ -217,3 +216,126 @@ This checklist is taken from Braun & Clarke (2006)
 13. There is a good fit between what you claim you do, and what you show you have done – i.e. described method and reported analysis are consistent
 14. The language and concepts used in the report are consistent with the epistemological position of the analysis
 15. The researcher is positioned as active in the research process; themes do not just ‘emerge’
+
+## OPTIONAL: Research skills session - Preparing for data analysis
+
+Ashley has recorded **optional** research skills sessions on different aspects of qualitative research. These sessions take a little bit deeper dive into some of the topics and may be particularly useful if you are planning on doing a qualitative dissertation next year. 
+
+[Watch the video here](https://echo360.org.uk/media/d4df06eb-4cf1-4ae0-bf8b-cf280d9da7e0/public)
+
+### Thinking about reflexivity
+
+We ask you to think about your own position in the research as part of your report (there is a section in the methods!).
+
+This can be quite tricky to do, but is very important for qualitative research. Some suggestions to get you started:
+
+  * Think about the topic you are doing for your research and your position in it. Where would you place yourself in relation to it? What are your own views on the topic? Do you feel quite strongly about it or not?
+  * Write as you reflect. Writing – be it using pen or pencil on paper, typing on a keyboard, dictating to some voice capture device, or some other mode – is an important tool for developing reflexive depth. It is good to do this at various stages of the research process.
+  * Start with your own experiences, understandings and views, but then also try to interrogate those (i.e. why do you have these particular understandings, views etc.?)
+
+Some questions that you might ask yourself:
+
+  *What do I expect to come up in the data? How does this relate to what we found?
+  * What broader experiences have I had that might influence how I'm thinking about this?
+  * What are my values (i.e. what is important to me)? What about my beliefs? How might these have infuenced my thinking?
+  * How might all of these be connected to my identities and the communities I am a part of?
+  
+### Becoming familiar with the data
+
+It's important to become familiar with the data in the process of doing the analysis. Read through your data and make the following notes:
+
+  * Things of potential interest
+  * Ideas that you might want to explore further when you are coding
+  * Your responses to the data (e.g. how do you feel when you read it?)
+
+Try to unpick any assumptions you have that underpin your initial reactions and observations:
+
+  * What was familiar?
+  * What was unfamiliar/surprising?
+  * Why are you reacting to the data in that way?
+  
+### Actitivty 1: Read this extract and take familiarisation notes
+
+Read this extract and take some familiarisation notes for yourself (these are just for you and won't be shared). We will then go through what Braun & Clarke say about it. Some context:
+
+This activity is based on a data extract from an interview study exploring LGBT students’ experiences of university life. The participant is a gay man – a mature student, who spoke English as a second language. The extract comes from early in the interview and in response to a question about whether he is ‘out’ as a gay man at university – whether he is openly gay.
+
+In this activity (5 mins):
+
+  * First, reflect on your assumptions and expectations about this topic, and your positioning in relation to this topic (are you an insider researcher? Outsider?).
+  * Second, read the data extract and make some familiarisation notes.
+  * Braun and Clarke’s familiarisation notes follow – reflect on similarities and differences in your and their analytic observations and ‘take’ on the data.
+
+<div class="info">
+<p>Andreas: ...I sometimes try to erm not conceal it that’s not the right word but erm let’s say I’m in a in a seminar and somebody- a a man says to me ‘oh look at her’ (Int: mm) I’m not going ‘oh actually I’m gay’ (Int: mm [laughter]) I’ll just go like ‘oh yeah’ (Int: mmhm) you know I won’t fall into the other one and say ‘oh yeah’ (Int: yep) ‘she looks really brilliant’ (Int: yep) but I sorta then and after them you hate myself for it because I I don’t know how this person would react because that person might then either not talk to me anymore or erm might sort of yeah (Int: yep) or next time we met not not sit next to me or that sort of thing (Int: yep) so I think these this back to this question are you out yes but I think wherever you go you always have to start afresh (Int: yep) this sort of li- lifelong process of being courageous in a way or not …</p>
+</div>
+
+
+<div class='webex-solution'><button>Braun & Clarke's familiarisation notes</button>
+
+  * Andreas reports a common experience of presumed heterosexuality; coming out is not an obvious option.
+  * Social norms dictate a certain response; the presumption of heterosexuality appears dilemmatic, and he colludes in the presumption, but minimally (to avoid social awkwardness).
+
+Looking a bit more deeply, Braun and Clarke speculated that:
+  * Andreas values honesty and being true to yourself, but he recognises a socio-political context in which that is constrained, and walks a ‘tightrope’ trying to balance his values and the expectations of the context.
+
+</div>
+
+
+### Activity 2: A code or a theme?
+
+In this activity, we'll go through a handout that asks you whether something is a code or a theme. Link to the handout is [HERE](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EchyMtm_oPxJjdf87kLvpyMB3nyxnSof5oEP-0A-PhnEGg?e=YKqeo8)
+
+For each label, decide whether it is a code or a theme.
+
+  *Keep in mind that although there is no absolute distinction between codes and themes, codes tend to have a single facet and capture one insight or observation about the data, whereas themes are ideally multifaceted and capture several insights and observations. Themes should also capture a pattern of shared meaning – this can be shared meaning on the data surface, or shared implicit or underlying meaning. 
+  * Reflect on why you have decided that each code/theme is a code or theme. What features of the data, the label/name, and brief explanation of the scope and focus of each code/theme influenced your judgement?
+  
+
+<div class='webex-solution'><button>Braun and Clarke's solution</button>
+  
+
+<div class="figure" style="text-align: center">
+<img src="images/themeorcode.png" alt="Braun and Clarke's suggestions" width="100%" />
+<p class="caption">(\#fig:img-themeorcode)Braun and Clarke's suggestions</p>
+</div>
+
+Three themes were presented in the analysis: "Two themes capture contradictory ideas: that men’s body hair is natural, and that men’s body hair is unpleasant. A third theme introduces the concept of ‘excess’ hair, which allowed sense-making of this contradiction, mandating men’s grooming of ‘excessive’ hair." (Terry & Braun, 2016, page 14)
+
+
+</div>
+
+
+
+### Some common problems with thematic analysis
+
+  * Thematic analysis that fails to address the research question.
+  * Unconvincing or under-developed analysis: 1) Too many or too few themes 2) Too much overlap between themes or themes are unrelated 3) Themes are vague or not internally consistent or coherent
+  * Little or no analytic work has been carried out (for example, using data collection questions as ‘themes’).
+  * Mismatch between data and analytic claims (e.g. going beyond what your participants say)
+  * Too few or too many data extracts (and little or no analytic commentary).
+  * Paraphrasing rather than analysing and interpreting data
+  * Arguing with the data – pointing out the ‘errors’ in a participant’s account.
+
+### Strategies for ensuring quality in your analysis
+
+**Reflexive journalling**
+  * Reflect on your experiences throughout the whole research process (not just at the end!)
+  * Think about your emotional responses to the data
+  * Try to reflect on your assumptions that you already have about the topic
+  
+**Talk about your data with others**
+  * Discuss your analysis with other people - it helps to clarify your analytic insights
+  * Do stages 1-2 in pairs if you want
+  * Discuss your findings in groups
+  * Come along to office hours
+  * Present your analysis (even if its preliminary), this can help solidify where we are going with it
+
+**Give yourself time**
+  * Try not to leave the analysis until the last minute
+  * Give yourself time to step away and breathe
+  * Perhaps work on other sections of your report at the same time, so that you have a mental break from analysis
+  
+**Make sure themes are themes (and be careful when naming them)**
+
+*Connelly and Peltzer (2016, p.55): "When a researcher designated a 1-word theme, such as 'collaboration', what does that mean in relationship to the experiences of the informants as interpreted by the researcher? Using only 1 word as a theme, there is no way of knowing, for example if the experiences of collaboration were positive or negative, or whether collaboration is important to the nurses. One-word themes do not convey what the researcher found out about collaboration"*

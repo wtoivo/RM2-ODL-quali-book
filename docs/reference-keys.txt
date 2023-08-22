@@ -2,6 +2,7 @@ fig:img-belonging
 fig:img-handcoded
 fig:img-commentcoded
 fig:img-tablecoded
+fig:img-themeorcode
 qualitative-designs
 activity-1-differences-between-qualitative-and-quantitative-designs
 activity-2-research-designs-quiz
@@ -29,7 +30,6 @@ practicalities-of-running-focus-groups
 practicalities-of-running-interviews
 practicalities-of-running-qualitative-surveys
 data-analysis
-overview-of-the-phases-of-ta
 coding-steps-1-2
 step-1-familiarisation-with-the-data
 step-2-generating-initial-codes
@@ -49,7 +49,15 @@ developing-a-narrative
 activities-3
 activity-1-semantic-vs.-latent
 activity-2-analysing-vs.-summarising
+activity-3-evaluating-analysis-and-discussion-sections
 checklist-for-a-good-ta
+optional-research-skills-session---preparing-for-data-analysis
+thinking-about-reflexivity
+becoming-familiar-with-the-data
+actitivty-1-read-this-extract-and-take-familiarisation-notes
+activity-2-a-code-or-a-theme
+some-common-problems-with-thematic-analysis
+strategies-for-ensuring-quality-in-your-analysis
 ethics-rigour-and-reflexivity
 ethics
 general-ethical-considerations
@@ -72,6 +80,10 @@ activity-4-read-the-effective-group-work-document
 activity-5-group-work-planner
 qualitative-portfolio-guidelines-and-materials
 task-1a-qualitative-questions
+task-1b-qualitative-questions-reflection
+task-2-ethics
+task-3-focus-group-gone-wrong
+where-to-get-guidance-for-the-portfolio-tasks
 qualitative-report
 what-is-the-qualitative-report
 report-datasets-and-how-to-use-uk-data-service
@@ -88,8 +100,8 @@ general-project-questions
 qualitative-portfolio-questions
 general-portfolio-questions
 task-1-qualitative-questions-reflection
-task-2-ethics
-task-3-focus-group-gone-wrong
+task-2-ethics-1
+task-3-focus-group-gone-wrong-1
 qualitative-report-questions
 general-report-questions
 research-questions
