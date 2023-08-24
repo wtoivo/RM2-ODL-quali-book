@@ -4,7 +4,6 @@ fig:img-commentcoded
 fig:img-tablecoded
 fig:img-themeorcode
 fig:img-intro
-fig:img-APA
 fig:img-TA
 fig:img-discussion
 qualitative-designs
@@ -58,7 +57,7 @@ checklist-for-a-good-ta
 optional-research-skills-session---preparing-for-data-analysis
 thinking-about-reflexivity
 becoming-familiar-with-the-data
-actitivty-1-read-this-extract-and-take-familiarisation-notes
+activity-1-read-this-extract-and-take-familiarisation-notes
 activity-2-a-code-or-a-theme
 some-common-problems-with-thematic-analysis
 strategies-for-ensuring-quality-in-your-analysis
@@ -73,6 +72,7 @@ consent-form
 reflexivity
 activity-1
 activity-2
+activity-3-optional
 group-project
 what-is-the-group-project
 getting-to-know-each-other-in-groups

@@ -4,7 +4,7 @@ The purpose of this chapter is to get you thinking about how to formulate good q
 
 ## Focus Groups
 
-When you are conducting qualitative research, thinking about the questions you are going to ask your participants is really important to ensure your data will be rich and good quality. You want to write questions that are clear, open-ended and prompt the participants to discuss/share their experiences. Here are ten tips for writing good focus group questions: 
+When you are conducting qualitative research, thinking about the questions you are going to ask your participants is really important to ensure your data will be rich and of good quality. You want to write questions that are clear, open-ended and prompt the participants to discuss/share their experiences. Here are ten tips for writing good focus group questions: 
 
 1. Ensure that the questions on your Focus Group Schedule are relevant and allow you to explore and possibly answer your research questions.
 
@@ -14,9 +14,9 @@ When you are conducting qualitative research, thinking about the questions you a
 
 4. Don’t write questions that are leading e.g. Do you agree that.... You are investigating something you don’t know the answer to. Even if you think you might know the answer your questions should not reflect this.
 
-5. Think about ethics!  Are the questions you are asking people ethically problematic?  If they are, it doesn’t always mean you should not ask them, you just have to be more cautious when you do!
+5. Think about ethics!  Are the questions you are asking people ethically problematic?  If they are, it doesn’t always mean you should not ask them, you just have to be more cautious when you do - it's important that we respect our participants and give them the opportunity to decide how much they are willing to share!
 
-6. Think about time.The focus group is normally around 30-40 mins long. It takes quite a bit of time to get through a focus group schedule, especially if you have to ask additional questions. We would recommend you have 5 or maybe 6 questions/discussion points on your schedule.
+6. Think about time. The focus group is normally around 30-40 mins long. It takes quite a bit of time to get through a focus group schedule, especially if you have to ask additional questions. We would recommend you have 5 or maybe 6 questions/discussion points on your schedule.
 
 7. It is useful to put a star next to/highlight the really important questions you want to ask.  This means that if you do start to run out of time then you can miss some of the other questions and go straight to these questions.
 
@@ -87,7 +87,7 @@ Research question: How does students' sense of belonging relate to participation
   * **Question 4.** This is a leading question - it implies that their sense of belonging has indeed *improved* when this may not be the case. A better way to phrase this would be: **"Has your sense of belonging changed since joining a team? If so, how? If not, why not?"**
   * **Question 5.** This question puts participants on the spot, which is something you never want to do, especially with a sensitive question like this. Instead, the question should be given to the group, so participants can answer if they want to, and disclose as much or as little they wish to.
   * **Question 6.** This is a quantitative question and does not provide meaningful qualitative data.
-  * **Question 7.** This is a yes/no-question. You should avoid phrasing questions like this, as they don't prompt rich answers. Instead, you may want to ask something like: **"What has been the best part about joining a team and why?** or **What aspects of being part of a team do you like? Why?** If you ask a yes/no-question, make sure to open it with some propmts (see example above for question 4).
+  * **Question 7.** This is a yes/no-question. You should avoid phrasing questions like this, as they don't prompt rich answers. Instead, you may want to ask something like: **"What has been the best part about joining a team and why?** or **What aspects of being part of a team do you like? Why?** If you ask a yes/no-question, make sure to open it with some prompts (see example above for question 4).
 
 </div>
 
@@ -114,7 +114,7 @@ When you are happy with your own answers, go through the suggested answers below
   * Question 1: This question prompts a yes/no answer  - a better way to phrase this would be: **"What have your experiences of homesickness been while studying abroad?"**
   * Question 2: This question can be a bit sensitive  - a better way to phrase this would be to say **"How do you think this has affected you?"** so the participant doesn't feel like they need to share a negative experience if they don't want to. Alternatively you could ask: **"What about this has been challenging to you and how have you managed that?"**
   * Question 3: This question doesn't produce meaningful qualitative data - if they answer "Mostly on weekends", you don't have much to analyse. A better way of phrasing the same idea it would be: **"How have your experiences of belongingness been?"**
-  * Question 4: This question also prompts a yes/no answer. This is not necessary a very good question in the first place because you're not directly looking at a causal relationship the same way you would in a quantitative study, and it becomes easily a leading question assuming there is a relationship between the two. A better question would be: **"How do you think your experiences of belongingness and homesickness compare or connect to each other?"**
+  * Question 4: This question also prompts a yes/no answer. This is not necessarily a very good question in the first place because you're not directly looking at a causal relationship the same way you would in a quantitative study, and it becomes easily a leading question assuming there is a relationship between the two. A better question would be: **"How do you think your experiences of belongingness and homesickness compare or connect to each other?"**
   * Question 5: This question is a bit ambiguous and it's not really clear what you are asking - feel better about what? This also assumes that homesickness is always a negative state, which it might not be to the participants. A better way to phrase this would be: **"How do you like to manage your feelings of homesickness?"** or **"What do you do when you are feeling homesick?"**
   
 </div>
@@ -132,7 +132,7 @@ It's important to think about the overall structure of an interview or focus gro
 
 **Warm up Question**
 
-The aim is to allow participants to introduce themselves, ensure everyone understands the procedure, and to encourage people to feel comfortable talking. Previous projects have used photos,cartoons, and media, or asked participants to generate meanings of the terms used in the discussion (e.g., “poor sleep”,”well-being”) to get people talking. *What is your idea for an ice breaker that might lead naturally into the main discussion?*
+The aim is to allow participants to introduce themselves, ensure everyone understands the procedure, and to encourage people to feel comfortable talking. Previous projects have used photos, cartoons, and media, or asked participants to generate meanings of the terms used in the discussion (e.g., “poor sleep”,”well-being”) to get people talking. *What is your idea for an ice breaker that might lead naturally into the main discussion?*
 
 *What makes a good/poor icebreaker?*
 
@@ -149,7 +149,7 @@ Thinking about the points above: *What do you think of the following ice-breaker
 
 **Main Questions**
 
-Bear in mind that the discussion may wander off track or focus onone aspect. Consider which part of the research question you think is most important to get people to answer. Start with this and be prepared to come back to it at the end if you need to. If you have more sensitive questions in your research schedule, they should be included later on, so people answer them when they are more comfortable.
+Bear in mind that the discussion may wander off track or focus on one aspect. Consider which part of the research question you think is most important to get people to answer. Start with this and be prepared to come back to it at the end if you need to. If you have more sensitive questions in your research schedule, they should be included later on, so people answer them when they are more comfortable.
 
 **What should the questions be like?**
 Avoid asking questions that ask two or three things in one sentence (e.g., about behaviour and impact on mood). Break it down into simpler questions. Limit the number of direct questions that elicit yes/no answers. These can be useful to gather information but are less helpful in generating a discussion. Add in probes/prompts to elicit
@@ -161,8 +161,7 @@ Try to:
 
 2. Frame questions in a way that is not leading. For example, 'how did lockdown negatively impact on your ability to study?' assumes that it did, when this may not be the case. A better question would be ''Do you think that lockdown restrictions impacted on students' experiences of studying? If so, how?"
 
-3. If you have sensitive questions, try to frame questions in a way that is not personal (i.e. you give people a chance to answer related to themselves, but they can also choose not to (plus it invites people who may not have lived experience to respond), e.g. "How do you take care of yourself when you are anxious" would be better phrased as "How might students support themselves when they are feeling anxious?" This is more important for focus groups, as people might feel put on the
-spot and go beyond their comfort levels
+3. If you have sensitive questions, try to frame questions in a way that is not personal (i.e. you give people a chance to answer related to themselves, but they can also choose not to). This apporach also invites people who may not have lived experience to respond, e.g. "How do you take care of yourself when you are anxious" would be better phrased as "How might students support themselves when they are feeling anxious?" This is more important for focus groups, as people might feel put on thespot and go beyond their comfort levels.
 
 4. Not ask lots of different things within the one question, e.g. "Can you tell us about your experiences of studying in Semester 1, how it made you feel and how that affects your studying in Semester 2?" You could ask about experiences of studying generally, and then could follow up with specific sub-questions asking them about semester 1 and 2, if that is something that was important to you.
 
@@ -172,8 +171,7 @@ The aim here is to give people an opportunity to add anything that might have be
 
 Examples:
 
-  * Thank you very much for all the great points you had today!
-  * Before we wrap things up, you have any final points that you would like to make, that perhaps wasn't covered in the interview?
+  * Thank you very much for all the great points you had today!Before we wrap things up, you have any final points that you would like to make, that perhaps wasn't covered in the interview?
   * Today we covered X, Y, and Z in the focus group. Is there anyone who has any final thoughts about what we covered here today that they'd like to share?
   * That's us finished with the main part of the focus group. We'd like to end by giving you all an opportunity to add anything that you think is important but has not been covered in the focus group so far. If you'd like to add something, please press raise hand on teams and we can make sure we go round those people before we finish up!
   
@@ -184,7 +182,7 @@ Here, we have an adapted version of an interview schedule that is included in th
 1. If you are not already married, are you planning to get married within the next few years?
 2. I love going to the cinema with my partner, do you?
 3. Do you have a good time with your partner?
-4. Would you go to relate if you had problems in your
+4. Would you go to Relate if you had problems in your
 relationship?
 5. When and how did you meet your partner?
 6. Do you earn more money that your partner?
@@ -228,7 +226,7 @@ Reword the question so that it is open and more concrete.
 **Question 4**
 
 *Problems* 
-Again closed, and assumes that the participants know what Relate it (a UK charity that that offers relationship counselling and sex therapy to heterosexual and same-sex couples experiencing relationship difficulties). Making assumptions about what the participants know (and don’t know) can alienate participants (making them feel stupid for not knowing) and damage rapport. Moreover, Relate is not the only provider of relationship counselling in the UK. 
+Again closed, and assumes that the participants know what Relate is (a UK charity that that offers relationship counselling and sex therapy to heterosexual and same-sex couples experiencing relationship difficulties). Making assumptions about what the participants know (and don’t know) can alienate participants (making them feel stupid for not knowing) and damage rapport. Moreover, Relate is not the only provider of relationship counselling in the UK. 
 
 *Solutions*
 Replace this with an open question and one that does not make assumptions about the participants’ knowledge (e.g., ‘relationship counselling’ is a good substitute for Relate). 

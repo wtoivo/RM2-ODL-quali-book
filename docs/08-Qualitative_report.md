@@ -13,6 +13,7 @@ Before accessing your datasets, watch [THIS VIDEO](https://uofglasgow.zoom.us/re
 You can access the UK data service [HERE](https://beta.ukdataservice.ac.uk/myaccount/login)
 
 You can choose one of the three available datasets: 
+  
   1. [Interviews with disabled young people and carers](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=854556)
   2. [LGBT+ networks in the workplace](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=855322)
   3. [Incentives of sharing research data](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=851540)
@@ -82,6 +83,7 @@ APA writing style encourages the use of active voice ("I coded the data" rather 
 ### Report sections
 
 You should include all the sections listed here:
+ 
   * Title
   * Abstract
   * Introduction
@@ -127,6 +129,7 @@ Next, remember to outline any limitations of previous studies - critique (howeve
 Finally, explain your study and clearly outline your research question/s.
 
 In sum:
+  
   * Review and evaluate previous theories and research relevant to the topic.
   * Provide a clear justification and explanation of your study, linked to your research questions
   * The main and subsidiary research questions have been outlined clearly and offer good alignment with qualitative methods (in this case a thematic approach).
@@ -140,6 +143,7 @@ The aim of the method section is to clearly report how your study was conducted 
 Follow these subheadings for your method section for this report: 
 
 **Secondary data**
+
 In this section you should describe the original study and give the reader context about their data collection. Understanding the specific context of each study is a key element of qualitative research, which is why it is really important for you to explain that in order for your secondary analysis to be reported openly. 
 
 What was the original study about? Who conducted it? Where are the data available? You should cite your chosen dataset in APA style (do not provide a link in text)  - each dataset has this information on the UK data service page under the Citation and copyright section. How many interviews did they conduct, what was the methodology they used for the interviews (you should find this information on the UK Data Service page for your chosen data set)?  Who were their participants? What were the participants asked about? 
@@ -147,16 +151,21 @@ What was the original study about? Who conducted it? Where are the data availabl
 If you have demographic information about the participants on the UK Data Service Website, you may wish to include this, but don't worry if your chosen dataset doesn't provide this - we don't expect you to report any information that was not available to you.
 
 **Data selection**
+
 In this section you should describe your procedure for choosing your final data set. How many interviews did you choose? How did you choose the specific ones you decided to use for your analysis? 
 
 **Ethics**
+
 The information you are able to provide in this section will depend on the information made available within the dataset. Some things you might want to comment on include: anonymisation procedures (e.g. has information been replaced or redacted), rapport building, information/consent/debrief, consent as a process. You will only be able to include information that has been made available in the dataset, so do not worry if you do not know a lot of detail.
 
 **Reflexivity**
+
 In qualitative research it is important to acknowledge the role of the researcher in interpretation of the data (Elliot & Fischer & Rennie, 1999).  This is where you question your own motives and attitudes in doing this project. Obviously we told you that you had to do it. But what assumptions did you hold prior to beginning the research? Had you considered issues around the topic previously? Did they match what the interviews say? Or did you disagree with them? Did this affect which interviews you chose to include in your analysis? And if so, how did this impact on your analysis? Because different people would interpret the data differently, it is useful for you to expose your own attitudes at this point so that others can see how you have impacted on the analysis. See Braun & Clarke (2013, pp36-37, 303-304) and activities around reflexivity.  Reflexive analysis should be concise for this project, perhaps around 3-4 sentences. 
 
 **Data Analysis**  
+
 In this section, report the following:
+
   * Details on the analysis you are using 
   * Briefly outline the your theoretical approach (look back at the second part of the lecture in Semester 1 Week 8 for help with this if needed)
   * Outline the different stages of the analysis. Qualitative analysis is accused of being fluffy/opaque sometimes. BE SPECIFIC about the stages of analysis. It's good practice at this stage to refer directly to a methodologists guidelines (e.g. Smith IPA, B and C for TA etc). Literally outline it as STAGE1: STAGE 2: etc.  For the project, 2-3 sentences outlining the stages (please note, this is in total, NOT per stage!) is sufficient.  A high quality account of the approach to analysis should offer transparency - try to 'open up the box' to be clear about what goes on between noting codes and arriving at themes.  Remember that the researcher observes themes in the data  - they do not *emerge*
@@ -171,15 +180,11 @@ Longer quotes should be indented to the centre, separated from the main text by 
 
 **PLEASE NOTE:** most qualitative analyses require you to provide some analytical commentary after each quote. This addresses the assessment criteria about themes being evidenced by quotes AND  described and interpreted within a narrative.  See the Semester 2 Week 6 materials on developing a narrative and the Braun & Clarke (2013) text (chapter 11) for examples for analytical commentary.
 
-<div class="figure" style="text-align: center">
-<img src="images/APAformat.png" alt="Example of formatting the quotes in APA style" width="100%" />
-<p class="caption">(\#fig:img-APA)Example of formatting the quotes in APA style</p>
-</div>
-
-You can also access the example [HERE](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EWfG8vjCAvtPjYPEJjQWxl8BPHlfzuI6weVkwIh_MVJSTQ?e=x7OT9m)
+See an example of how to format quotes in APA style [HERE](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EWfG8vjCAvtPjYPEJjQWxl8BPHlfzuI6weVkwIh_MVJSTQ?e=x7OT9m)
 
 
 Due to the word limit we recommend that you:
+  
   * Choose a maximum of 2 themes to include in the Analysis Section. You may have found more in the analyses, but the scope and word limit of the project allows you to develop a narrative and evidence for 2 main themes with no subthemes. One alternative would be to report one theme with 2-3 subthemes. You may identify more themes than this, which is fine, but please stick to the guidelines here.
   * Introduce and explain each theme briefly using sub headings
   * Include 3-5 quotes support each theme (include the Pseudonym/participant number)

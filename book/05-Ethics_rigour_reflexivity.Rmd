@@ -120,7 +120,7 @@ If you agree to participate in this study, then please read the following statem
 
 ## Reflexivity
 
-Please note: Some information below is included in the video for Research Skills #4 as well
+Please note: Some information below is included in the video for [Research Skills for data analysis](https://wtoivo.github.io/RM2-ODL-quali-book/data-analysis.html#optional-research-skills-session---preparing-for-data-analysis) as well
 
 We ask you to think about your own position in the research as part of your report (there is a section in the methods!).
 
@@ -140,8 +140,7 @@ Some questions that you might ask yourself:
   * What are my values (i.e. what is important to me)?
   * What about my beliefs? How might these have influenced my thinking?
 
-Here we have some data from Braun & Clarke - there are different datasets to choose from. If you want to use the ones from Braun & Clarke, you can either choose the 'childfree' dataset or the 'healthy eating' dataset. However, we know that some topics might be difficult for people, so please do choose a topic of your own preference if you would rather  - any qualitative dataset (e.g.
-from UK Data Service) or news article would be fine.
+Here we have some data from Braun & Clarke - there are different datasets to choose from. If you want to use the ones from Braun & Clarke, you can either choose the ['childfree'](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EWq1HW7Xm_BKnobsU_GRpcIBlSvnQ4k6XhFqBkszClAwWg?e=q4lc97) dataset or the ['healthy eating'](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EdfitbKwhodKo8Kmj9szNgwBNmt313A8dYknAiehHdy2lg?e=0vWOnu) dataset. However, we know that some topics might be difficult for people, so please do choose a topic of your own preference if you would rather  - any qualitative dataset (e.g.from UK Data Service) or news article would be fine.
 
 ### Activity 1
 
@@ -149,12 +148,15 @@ Spend about fifteen minutes reflecting on the topic and where you would place yo
 some other mode – is an important tool for developing reflexive depth. Start with your own experiences, understandings and views, but then also try to interrogate those.
 
 Ask yourself questions like:
+
   * What assumptions am I basing my thinking on?
-  * What broader experiences and values might inform my
-thinking on this?
-  * How might these be connected to myself as a person, my
-various identities, my personal experience in relation to the topic, and the communities I am part of?
+  * What broader experiences and values might inform my thinking on this?
+  * How might these be connected to myself as a person, my various identities, my personal experience in relation to the topic, and the communities I am part of?
 
 ### Activity 2
 
 Discuss your experiences of reflecting with your group. Did you find it easier than expected? Was it harder? Was there anything that surprised you about the process? Please only share what you feel comfortable with.
+
+### Activity 3 (optional)
+
+Ashley has some additional reflexivity probes and tips in her research skills session which can be accessed [HERE](https://wtoivo.github.io/RM2-ODL-quali-book/data-analysis.html#thinking-about-reflexivity)

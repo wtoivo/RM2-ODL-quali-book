@@ -20,7 +20,7 @@ This section is designed for you to engage with your group early, get to know ea
 
 ### Activity 1: Create a group chat and set up an initial meeting
 
-Get in touch with your group and create a Teams chat. You **MUST** use Teams for all communication about the group project. Do not use any other platforms (such as Whatsapp, WeChat, Facebook etc.) as these can lead to people being excluded.Set up a meeting in which you will discuss Activity 3 from this chapter. After the initial meeting, set up a regular check-in time. This doesn't necessarily need to be a meeting every time, you can also do it over text. You will need to coordinate between time zones/work calendars/other responsibilities 
+Get in touch with your group and create a Teams chat. You **MUST** use Teams for all communication about the group project. Do not use any other platforms (such as Whatsapp, WeChat, Facebook etc.) as these can lead to people being excluded. Set up a meeting in which you will discuss Activity 3 from this chapter. After the initial meeting, set up a regular check-in time. This doesn't necessarily need to be a meeting every time, you can also do it over text. You will need to coordinate between time zones/work calendars/other responsibilities 
 
 *DO:* Communicate regularly and be clear about where and how you are going to communicate about the group project. Be proactive if you are having a busy time and let your group know.
 

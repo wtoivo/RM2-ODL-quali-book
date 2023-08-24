@@ -18,7 +18,7 @@ Complete the activities below to familiarise yourself with the key differences b
 |Tends to be theory-testing and deductive|Tends to be theory generating and *inductive* (working up from the data)|
 |Values detachment and impartiality (objectivity)|Values personal involvement and partiality (subjectivity, reflexivity)|
 |Has a fixed method (harder to change focus when data collection has begun)|Method is less fixed (can accommodate a shift in focus in the same study)|
-|Can be completed quickly|Tends to take longer to complete because there it is interpretative and there is no formula|
+|Can be completed quickly|Tends to take longer to complete because it is interpretative and there is no formula|
 
 Look at the table above and write down answers for the following questions:
 
@@ -31,7 +31,7 @@ Look at the table above and write down answers for the following questions:
 
 Choose whether a quantitative or qualitative design is most appropriate for each of the following studies. Why did you choose each option?
 
-1. Angela is conducting a study exploring the experience of people currently experience mental ill health. She is interested in a) better understanding what people with mental ill health experience day-to-day, and b) exploring the support mechanisms that are in place
+1. Angela is conducting a study exploring the experiences of people currently experiencing mental ill health. She is interested in a) better understanding what people with mental ill health experience day-to-day, and b) exploring the support mechanisms that are in place
 
 This study is more likely to be: <select class='webex-select'><option value='blank'></option><option value='answer'>Qualitative</option><option value=''>Quantitative</option></select>
 

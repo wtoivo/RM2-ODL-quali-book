@@ -1,14 +1,14 @@
 # Data collection
 
-This chapter runs through some of the practical issues you need to think about when collecting data for your qualitative study. Do the activities below on your own and then discuss your answers with your group.
+This chapter runs through some of the practical issues you need to think about when collecting data for a qualitative study. Do the activities below on your own and then discuss your answers with your group.
 
 ## Considering ethics
 
 **Informed consent**
 
-Before and data collection takes place, you must provide your participants with an information sheet and consent form (see the chapter 5: Ethics for more detail!) 
+Before and data collection takes place, you must provide your participants with an information sheet and consent form (see [chapter 5: Ethics](https://wtoivo.github.io/RM2-ODL-quali-book/ethics-rigour-and-reflexivity.html) for more detail!) 
 
-You must give everyone participating the Information sheet and consent form before the focus group/interview takes place. Completed consent forms should be returned to the researcher and you should verbally confirm consent before you start any data collection. 
+You must give everyone participating the Information sheet and consent form before the focus group/interview takes place. Completed consent forms should be returned to the researcher and you should verbally confirm consent before you start any data collection. In a survey, participants should complete consent form before seeing any survey questions.
 
 **Confidentiality in Focus groups**
 
@@ -20,12 +20,12 @@ Discuss some 'ground rules' at the start with the group, and also go through the
 
 There are a number of stages to a focus group, and it's not always exactly the same, but here is an example structure for a focus group:
 
-  * **Stage 1: Setting the scene.** The topic of the project should be introduced by the facilitator, and everyone agrees to take part. It must be made clear to the people in your focus group a) that they do not have to answer any questions that they do not feel comfortable with, b) highlight that the session will be recorded, and they have a choice to have their camera on or off, but that the mic must be used, c) what will happen with the recordings (i.e. that they will be kept safe on University-approved servers and the transcript anonymised), d) that everyone has a responsibility to maintain confidentiality of the topics discussed in the group and e) that they are free to leave the session at any time. Run through the Information Sheet and Consent Form here, and discuss any ground rules you have. I would also raise the point here that there are a few questions to get through, and therefore you might have to step in to help manage time. 
+  * **Stage 1: Setting the scene.** The topic of the project should be introduced by the facilitator, and everyone agrees to take part. It must be made clear to the people in your focus group a) that they do not have to answer any questions that they do not feel comfortable with, b)  highlight that the session will be recorded (if conducting your study online, also make sure to let your participants know they have a choice to have their camera on or off, but that the mic must be used), c) what will happen with the recordings (i.e. that they will be kept safe on University-approved servers and the transcript anonymised), d) that everyone has a responsibility to maintain confidentiality of the topics discussed in the group and e) that they are free to leave the session at any time. Run through the Information Sheet and Consent Form here, and discuss any ground rules you have. I would also raise the point here that there are a few questions to get through, and therefore you might have to step in to help manage time. 
   * **Stage 2: Recording.** Remember to start recording and let your participants know when you do it. This is very important. 
   * **Stage 3: Introductions.** Go around the table and ask everyone to introduce themselves. Start with yourself and the note-taker first. Everyone should state their first name clearly. 
   * **Stage 4: Ice-breaker.** Ask a warm-up question or ice-breaker. The aim is to allow participants to introduce themselves, ensure everyone understands the procedure, and to encourage people to feel comfortable talking. Previous projects have used photos, cartoons, and media, or asked participants to generate meanings of the terms used in the discussion (e.g., “poor sleep”,”well-being”) to get people talking.
   * **Stage 5: Discussion.** This is where you ask your main questions, and follow-up questions. It is a good idea to prepare around five or six main questions, and perhaps highlight three or four that are most important to focus on. The discussion may follow a different order to that on the focus group schedule  - this is fine. 
-  * **Stage 6: Facilitating the discussion.** The facilitator should be prepared to help steer conversation back on track, and balance discussion so that everyone gets a chance to contribute. Have a few specific prompts that relate to each question and/or some general prompts to keep the discussion flowing.  What are you going to do if no-one participates? Or if one person is contributing?  For example… “has anyone else had a similar experience? Does anyone have a different view?” At the same time be ethical and avoid targeting people. Give participants the opportunity to describe their interpretations and take ownership.  E.g.,  “How would…make you feel”, “Have you ever noticed that…” “Think back to when…”,  “What was most important to you about…?” 
+  * **Stage 6: Facilitating the discussion.** The facilitator should be prepared to help steer conversation back on track, and balance discussion so that everyone gets a chance to contribute. Have a few specific prompts that relate to each question and/or some general prompts to keep the discussion flowing.  What are you going to do if no-one participates? Or if one person is contributing?  For example… “has anyone else had a similar experience? Does anyone have a different view?” At the same time be ethical and avoid targeting individual people. Give participants the opportunity to describe their interpretations and take ownership.  E.g.,  “How would…make you feel”, “Have you ever noticed that…” “Think back to when…”,  “What was most important to you about…?” 
   * **Stage 7: Ending the discussion.** It's good to end the discussion by going round the group and asking each participant if they have anything they want to add to the discussion/sum up their thoughts on what was discussed.Remember to allow focus group members the chance to confirm/withdraw consent for their anonymised contributions to be used.
   
   
@@ -102,7 +102,7 @@ View below some situations you may encounter when running a focus group: before 
   * Consider sending questions to your participants in advance so they know what to expect.
   * Don't be uncomfortable with a bit of awkward silence (particularly if running your FG online) and don't fill the space with your opinions - let the participants take the lead.
   * Prepare prompts/probes that you can ask to help the participants get started.
-  * You can ask if anybody would like to go first (don't put an individual participation on the spot)
+  * You can ask if anybody would like to go first (don't put an individual participant on the spot)
 `r unhide()`
 
   7. You are not sure what the participant meant/the participant answers very shortly
@@ -132,12 +132,12 @@ See the University guidelines on handling confidential data  https://www.gla.ac.
 
 Make sure that:
 
-  * You have a data management plan in place before data collection (how and where are you storing the data, who will have access to it, how ling do you need to store it for, what steps of confidentiality and anonymisation are you taking?)
+  * You have a data management plan in place before data collection (how and where are you storing the data, who will have access to it, how long do you need to store it for, what steps of confidentiality and anonymisation are you taking?)
   * Participants are made aware of your data management plan prior to any data collection in the information sheet and consent form
   * Data should be retained until after completion of the project on a password-protected encrypted drive and a secure database accessible only to the research team
   * Only use University-approved systems to collect, manage and store data  - **do not use external providers (such as Google or Dropbox)**, as they may not be GDPR compliant
   * If you share the data, your participants should be informed about this prior to taking part, and you should only share the anonymised data files 
-  * **Do not share data via social media, google drive or personal email which is not secure.**
+  * **Do not share data via social media, Google drive or personal email which is not secure.**
 
 ## OPTIONAL: Research skill session - data collection
 
@@ -147,7 +147,7 @@ Ashley has recorded **optional** research skills sessions on different aspects o
 
 ### General tips
 
-  * Be organised  - get ethics in early etc., keep track of potentialparticipants
+  * Be organised  - get ethics in early etc., keep track of potential participants
   * Think through all the different steps involved as you will need to refer to this in your ethics application  - how do you plan to recruit, collect the data, store the data? Before you start collecting data, it would be good to have a checklist with everything you need to consider
   * Only collect the demographics that you need  - if you don't need to know how many siblings they have or what time they go to bed, then don't ask for that information
   * Be sensitive to who your participants are - you might ask different questions in a focus group (where people are in front of others) than you would in an online questionnaire (where it is easier to withdraw if uncomfortable).
@@ -163,7 +163,7 @@ comfortable as possible for participants (e.g. sending out questions in advance 
 ### Practicalities of running focus groups
 
   * Establish ground rules - esp. confidentiality
-Set expectations - ask participants to respond to each other rather than each person individually responding to the question (if possible, this is not always the case)
+  * Set expectations - ask participants to respond to each other rather than each person individually responding to the question (if possible, this is not always the case)
   * Moderator has to manage the group as best they can
   * Wrapping things up.
   * Can be helpful to have a notetaker to note down anything interesting/if doing it in person, to note down order that people speak in. Allows the moderator to focus on discussion

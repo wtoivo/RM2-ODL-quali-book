@@ -243,9 +243,7 @@ No, you should try to go a bit deeper in finding meanings in the data in your an
 **Can we use a mixture of inductive and deductive approach?**
 
 **Actually I started exploring the data without any previous thoughts (inductive) and later I started reading the literature for this topic and unintentionally I started observing some of the same conclusions in my data (deductive). Is this a formal way of analysing the data? Can I report a mixture of approaches?**
-It is possible to do this - here is an example of a paper that used a combination of inductive and deductive coding for TA: https://journals.sagepub.com/doi/10.1177/160940690600500107#:~:text=In%20our%20analysis%20of%20the,hybrid%20approach%20to%20thematic%20analysis. 
-
-This would not be the only way to do it, but is an overview of one possible way in which coding and developing themes could utilise both. My main suggestion would be to be clear with the reader in your methods about the thinking behind your approach.
+It is possible to do this - [here is an example of a paper](https://journals.sagepub.com/doi/10.1177/160940690600500107#) that used a combination of inductive and deductive coding for TA. This would not be the only way to do it, but is an overview of one possible way in which coding and developing themes could utilise both. My main suggestion would be to be clear with the reader in your methods about the thinking behind your approach.
 
 **What if in our analysis we end up developing different themes the three interviews? Do we have to report only the common themes or is it ok if we also analyse themes that are evident only in one or two interviews?**
 Ideally at the themes stage you should consider the dataset as a whole so most of your themes should come from more than one interview  Try to find quotes which illustrate the theme not just from one participant. Sometimes themes may be more strongly present in parts of the data and that's ok but try to avoid having one theme that's from one participant only and another one that's from another participant - the themes should represent the data a bit more holistically

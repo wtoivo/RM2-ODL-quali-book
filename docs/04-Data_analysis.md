@@ -140,14 +140,15 @@ Look across the entire dataset and consider the validity of your theme(s) – do
 
 **Practical steps:**
 
-  * For the report, you should report either two themes (no subthemes) or one theme with 2-3 sub-themes. This is to allow you to balance depth and breadth.
+  * For the RM2 qualitative report, you should report either two themes (no subthemes) or one theme with 2-3 sub-themes. This is to allow you to balance depth and breadth.
   * Each theme should include approx. three quotes to illustrate it in the write up. Think about which quotes best illustrates your them.
+  * If you are doing a qualitative dissertation, you will have scope to go further with your analysis; it is a good idea to discuss your data with your supervisor throughout the analytic process.
   
 ### Activities
 
 #### Activity 1: Try it yourself!
 
-We've provided the same transcript as last week, but it's a little longer (to give you more scope to develop themes) - you can find it [here](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EZaA8YkYkyVGkwn0cEDFLCABWr5rREIlMAyIaAPHu3juTg?e=QgyPdd). You can use the codes you developed last time (adding to them for the additional parts of the transcript), or you can recode the data again if you prefer - either option is fine.
+We've provided the same transcript as for steps 1-2, but it's a little longer (to give you more scope to develop themes) - you can find it [here](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EZaA8YkYkyVGkwn0cEDFLCABWr5rREIlMAyIaAPHu3juTg?e=QgyPdd). You can use the codes you developed last time (adding to them for the additional parts of the transcript), or you can recode the data again if you prefer - either option is fine.
 
   * Once you have your codes, try to organise them into themes.
   * Group together the codes that seem similar in some way - can you think of an overarching 'theme' that describes them? 
@@ -182,8 +183,8 @@ Thematic Analysis allows you to explore *semantic* or *latent* themes (or both) 
 
 1. Remember to introduce your theme to the reader – what is it about? Don’t start a theme with a quote. If you have sub- themes, still introduce the overall theme briefly before you discuss your first sub-theme
 2. Explain to the reader why you’ve chosen to include each quote. Why is it important enough to be included? What does it tell us about your data?
-3. Focus on depth rather than breadth – it is important that we get a real sense of your theme. You only have 3000 words in total, and so will have to choose what you discuss
-4. Show the reader who each quote comes from  - we should be able to match this up with the demographics table in the Methods section (which then gives us some context). You can do this by using pseudonyms and linking this to the table by using the same names there too
+3. Focus on depth rather than breadth – it is important that we get a real sense of your theme. In the RM2 report you only have 3000 words in total, and so will have to choose what you discuss
+4. Show the reader who each quote comes from  - we should be able to match this up with the demographics table/list of interviews in the Methods section (which then gives us some context). You can do this by using pseudonyms and linking this to the table by using the same names there too.
 5. Think about where the opportunities are in your data to go beyond description. Is there anything you can infer? If so, remember to be clear with the reader that this is your interpretation. Your reader should be able why you have interpreted the data this way from the quotes you've chosen.
 
 ### Activities
@@ -225,7 +226,7 @@ Ashley has recorded **optional** research skills sessions on different aspects o
 
 ### Thinking about reflexivity
 
-We ask you to think about your own position in the research as part of your report (there is a section in the methods!).
+We ask you to think about your own position in the research as part of your RM2 report (there is a section in the methods!).
 
 This can be quite tricky to do, but is very important for qualitative research. Some suggestions to get you started:
 
@@ -235,7 +236,7 @@ This can be quite tricky to do, but is very important for qualitative research. 
 
 Some questions that you might ask yourself:
 
-  *What do I expect to come up in the data? How does this relate to what we found?
+  * What do I expect to come up in the data? How does this relate to what we found?
   * What broader experiences have I had that might influence how I'm thinking about this?
   * What are my values (i.e. what is important to me)? What about my beliefs? How might these have infuenced my thinking?
   * How might all of these be connected to my identities and the communities I am a part of?
@@ -254,9 +255,11 @@ Try to unpick any assumptions you have that underpin your initial reactions and 
   * What was unfamiliar/surprising?
   * Why are you reacting to the data in that way?
   
-### Actitivty 1: Read this extract and take familiarisation notes
+### Activity 1: Read this extract and take familiarisation notes
 
-Read this extract and take some familiarisation notes for yourself (these are just for you and won't be shared). We will then go through what Braun & Clarke say about it. Some context:
+Read this extract and take some familiarisation notes for yourself (these are just for you and won't be shared). We will then go through what Braun & Clarke say about it. 
+
+Some context:
 
 This activity is based on a data extract from an interview study exploring LGBT students’ experiences of university life. The participant is a gay man – a mature student, who spoke English as a second language. The extract comes from early in the interview and in response to a question about whether he is ‘out’ as a gay man at university – whether he is openly gay.
 
@@ -276,8 +279,7 @@ In this activity (5 mins):
   * Andreas reports a common experience of presumed heterosexuality; coming out is not an obvious option.
   * Social norms dictate a certain response; the presumption of heterosexuality appears dilemmatic, and he colludes in the presumption, but minimally (to avoid social awkwardness).
 
-Looking a bit more deeply, Braun and Clarke speculated that:
-  * Andreas values honesty and being true to yourself, but he recognises a socio-political context in which that is constrained, and walks a ‘tightrope’ trying to balance his values and the expectations of the context.
+Looking a bit more deeply, Braun and Clarke speculated that Andreas values honesty and being true to yourself, but he recognises a socio-political context in which that is constrained, and walks a ‘tightrope’ trying to balance his values and the expectations of the context.
 
 </div>
 
@@ -288,7 +290,7 @@ In this activity, we'll go through a handout that asks you whether something is 
 
 For each label, decide whether it is a code or a theme.
 
-  *Keep in mind that although there is no absolute distinction between codes and themes, codes tend to have a single facet and capture one insight or observation about the data, whereas themes are ideally multifaceted and capture several insights and observations. Themes should also capture a pattern of shared meaning – this can be shared meaning on the data surface, or shared implicit or underlying meaning. 
+  * Keep in mind that although there is no absolute distinction between codes and themes, codes tend to have a single facet and capture one insight or observation about the data, whereas themes are ideally multifaceted and capture several insights and observations. Themes should also capture a pattern of shared meaning – this can be shared meaning on the data surface, or shared implicit or underlying meaning. 
   * Reflect on why you have decided that each code/theme is a code or theme. What features of the data, the label/name, and brief explanation of the scope and focus of each code/theme influenced your judgement?
   
 
@@ -320,11 +322,13 @@ Three themes were presented in the analysis: "Two themes capture contradictory i
 ### Strategies for ensuring quality in your analysis
 
 **Reflexive journalling**
+
   * Reflect on your experiences throughout the whole research process (not just at the end!)
   * Think about your emotional responses to the data
   * Try to reflect on your assumptions that you already have about the topic
   
 **Talk about your data with others**
+
   * Discuss your analysis with other people - it helps to clarify your analytic insights
   * Do stages 1-2 in pairs if you want
   * Discuss your findings in groups
@@ -332,6 +336,7 @@ Three themes were presented in the analysis: "Two themes capture contradictory i
   * Present your analysis (even if its preliminary), this can help solidify where we are going with it
 
 **Give yourself time**
+
   * Try not to leave the analysis until the last minute
   * Give yourself time to step away and breathe
   * Perhaps work on other sections of your report at the same time, so that you have a mental break from analysis
