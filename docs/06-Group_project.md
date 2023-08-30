@@ -2,7 +2,7 @@
 
 ## What is the group project?
 
-In the group project, you will engage in three tasks that are designed to help you build your practical research skills in qualitative research. You will compile your answers to the tasks into a portfolio that you submit to Moodle as a group. Please watch this video (ADD LINK) for an overview of the project, and make sure that you have engaged with the [AIS](https://sway.office.com/BusP6yjXtfZVeaB3?ref=Link) and [FIS](https://sway.office.com/41UBqJPistW5XL4G?ref=Link) of the group portfolio before starting any work on it so you know what to expect. 
+In the group project, you will engage in three tasks that are designed to help you build your practical research skills in qualitative research. You will compile your answers to the tasks into a portfolio that you submit to Moodle as a group. Please watch this [video](https://uofglasgow.zoom.us/rec/share/hmdPpMhtl-PSRyrMqkveBUGXm-bbWmeDNrNhFiKFe4eXnWv4MHqnqwcEiPGVS6Rn._TyzV4uXqhP_jN7r) for an overview of the project, and make sure that you have engaged with the [AIS](https://sway.office.com/BusP6yjXtfZVeaB3?ref=Link) and [FIS](https://sway.office.com/41UBqJPistW5XL4G?ref=Link) of the group portfolio before starting any work on it so you know what to expect. 
 
 ## Getting to know each other in groups
 
