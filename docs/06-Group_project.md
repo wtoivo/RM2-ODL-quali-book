@@ -2,7 +2,7 @@
 
 ## What is the group project?
 
-In the group project, you will engage in three tasks that are designed to help you build your practical research skills in qualitative research. You will compile your answers to the tasks into a portfolio that you submit to Moodle as a group. Please watch this video (ADD LINK) for an overview of the project, and make sure that you have engaged with the AIS and FIS (ADD LINKS) of the group portfolio before starting any work on it so you know what to expect. 
+In the group project, you will engage in three tasks that are designed to help you build your practical research skills in qualitative research. You will compile your answers to the tasks into a portfolio that you submit to Moodle as a group. Please watch this video (ADD LINK) for an overview of the project, and make sure that you have engaged with the [AIS](https://sway.office.com/BusP6yjXtfZVeaB3?ref=Link) and [FIS](https://sway.office.com/41UBqJPistW5XL4G?ref=Link) of the group portfolio before starting any work on it so you know what to expect. 
 
 ## Getting to know each other in groups
 
@@ -66,7 +66,7 @@ Work back from the deadline to establish tasks and when they need to be done. Di
 
 ## Qualitative portfolio guidelines and materials
 
-You will complete three tasks: Qualitative questions (Task 1a and 1b), Ethics (Task 2) and Terrible focus group (Task 3). Below, you will find information and the required materials to complete each task
+You will complete three tasks: Qualitative questions (Task 1a and 1b), Ethics (Task 2) and Terrible focus group (Task 3). Below, you will find information and the required materials to complete each task. Please use [THIS TEMPLATE](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EeFbaG-CE0pEnWBvsAwGIXUBIR8wAoFdJYYhklHoUKkEjg?e=DTA61b) to complete your submission.
 
 ### Task 1a: Qualitative questions
 

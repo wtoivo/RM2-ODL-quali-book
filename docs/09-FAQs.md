@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-This page was last updated 23/06/23
+This page was last updated 30/08/23
 
 ## General Project questions
 
@@ -13,8 +13,8 @@ Re. the timescales - we would advise that you start working (or at least thinkin
 
 ### General portfolio questions
 
-**Where can I find information about the qualitative portfolio? (ADD LINKS)**
-You can find information about the portfolio in the template, the guidelines, the AIS and the video Wil recorded
+**Where can I find information about the qualitative portfolio?**
+You can find information about the portfolio in the template, the guidelines, the AIS and the video Wil recorded. You can access the materials in [chapter 6](https://wtoivo.github.io/RM2-ODL-quali-book/group-project.html) of this book.
 
 **What is the word count for each section? (ADD LINKS)**
 This is in the template, but it can be broken down as follows: Activity 1a (no word limit for the six questions), Activity 1b (250 words), Activity 2 (250 words), Activity 3 (500 words).
@@ -127,7 +127,7 @@ I think generally I would say 'a participant' etc. as it depersonalises it. Howe
 ### General report questions
 
 **Will there be detailed guidance about each section of the qual report?**
-Yes, we have a guidance in this book in the qualitative report section, which will cover the key points to cover in the report.
+Yes, we have a guidance in this book in the qualitative report section in [chapter 8](https://wtoivo.github.io/RM2-ODL-quali-book/qualitative-report.html), which will cover the key points to cover in the report.
 
 **Is our report written in a specific style, e.g. IPA, thematic analysis etc?**
 You will use thematic analysis to analyse your data. We covered this in detail in the lectures in semester 1, and we will also have activities to support this in semester 2.

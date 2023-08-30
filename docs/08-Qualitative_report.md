@@ -4,7 +4,7 @@ In this section, you will find information and guidance about your qualitative r
 
 ## What is the qualitative report?
 
-You will be asked to write an individual qualitative report on one of three secondary data topics. You should conduct Thematic Analysis on your chosen dataset.Watch this video (ADD LINK) for an overview about the report, and make sure you have accessed the AIS and FIS (ADD LINKS) on Moodle before you start working on the report. 
+You will be asked to write an individual qualitative report on one of three secondary data topics. You should conduct Thematic Analysis on your chosen dataset.Watch this video (ADD LINK) for an overview about the report, and make sure you have accessed the [AIS](https://sway.office.com/KWdOZnNK1oM1FULn?ref=Link) and [FIS](https://sway.office.com/ZlNI4cWd8XWncVQE?ref=Link) on Moodle before you start working on the report. 
 
 ## Report datasets and how to use UK data service
 
@@ -53,6 +53,12 @@ These questions are now a bit more in line with qualitative and are specific abo
   * **Practical constraints:** Can the question realistically be explored using thematic analysis and using secondary data? Try not to cover too much
   * **Guiding:** Remember that your RQ guides your enquiry but shouldn't be restrictive  - it's not the case that you are unable to report themes that don't directly answer your RQ. 
   * **Flexibility:** Research questions are more flexible than hypotheses-it is acceptable for the focus of the RQ to be refined during/after data collection.
+  
+### Formative feedback on your RQ
+
+If you would like to receive formative feedback on your RQ, you can submit it on [this Padlet](https://padlet.com/wilhelmiinatoivo/rm2-odl-research-questions-f844153314j3pwr2) by the end of week 5, semester 2. Please note that RQs submitted later than that will not receive feedback.
+
+If you would like to discuss your RQ, you can also attend Ashley's and Wil's office hours.
   
 
 ## Qualitative report guide
