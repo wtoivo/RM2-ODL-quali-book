@@ -4,6 +4,8 @@
 
 In the group project, you will engage in three tasks that are designed to help you build your practical research skills in qualitative research. You will compile your answers to the tasks into a portfolio that you submit to Moodle as a group. Please watch this [video](https://uofglasgow.zoom.us/rec/share/hmdPpMhtl-PSRyrMqkveBUGXm-bbWmeDNrNhFiKFe4eXnWv4MHqnqwcEiPGVS6Rn._TyzV4uXqhP_jN7r) for an overview of the project, and make sure that you have engaged with the [AIS](https://sway.office.com/BusP6yjXtfZVeaB3?ref=Link) and [FIS](https://sway.office.com/41UBqJPistW5XL4G?ref=Link) of the group portfolio before starting any work on it so you know what to expect. 
 
+[HERE](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EQM2Fzsi0FJAlDKTJXgi7-8Brm7ITIBw5ta3MaXSiDZfrg?e=FMLoM4) is a suggested timeline for the qualitative portfolio and report
+
 ## Getting to know each other in groups
 
 This section is designed for you to engage with your group early, get to know each other, and develop some common guidelines for working together before you embark on the group project. If you haven't done so yet, please get in touch with your group now to complete the following activities. We have also provided a checklist of things to complete as a group before the start of semester 2.
@@ -76,11 +78,28 @@ Below, you will find a brief overview of a study topic. In this task, we would l
 
 <div class="info">
 <p><strong>Study overview</strong></p>
-<p>Universities provide support for students, and this support can come in many forms, from free counselling services to well-being advisors (Raunic &amp; Xenos, 2008).</p>
-<p>In one study, it was reported that only 3% of students used their university counselling service, and only 5% of those who were characterised as vulnerable based on questionnaire scores, used the services (Cooke et al., 2006). This suggests that the majority of students did not make use of services available.</p>
-<p>There are many reasons why students may not choose to seek help, including being unaware of services, low socio-economic status, being from different cultural background, embarrassment about having to seek help, and scepticism about the services (Eisenberg et al., 2007; Gulliver et al., 2010).</p>
-<p>Another issue around seeking support is that many who do chose to get help, have to wait long periods for appointments (Mowbray et al., 2006). In a recent article reported in the Independent, a waiting time of 4 months was cited for some universities. These delays to support, can lead to emergence of mental health crises situations. Unfortunately, in this the University of Glasgow had one of the longest wait times for counselling (Buchan, 2018).</p>
-<p><em>Research question: What are student’s views on how universities can support students and their mental health needs?</em></p>
+<p>Universities provide support for students, and this support can come
+in many forms, from free counselling services to well-being advisors
+(Raunic &amp; Xenos, 2008).</p>
+<p>In one study, it was reported that only 3% of students used their
+university counselling service, and only 5% of those who were
+characterised as vulnerable based on questionnaire scores, used the
+services (Cooke et al., 2006). This suggests that the majority of
+students did not make use of services available.</p>
+<p>There are many reasons why students may not choose to seek help,
+including being unaware of services, low socio-economic status, being
+from different cultural background, embarrassment about having to seek
+help, and scepticism about the services (Eisenberg et al., 2007;
+Gulliver et al., 2010).</p>
+<p>Another issue around seeking support is that many who do chose to get
+help, have to wait long periods for appointments (Mowbray et al., 2006).
+In a recent article reported in the Independent, a waiting time of 4
+months was cited for some universities. These delays to support, can
+lead to emergence of mental health crises situations. Unfortunately, in
+this the University of Glasgow had one of the longest wait times for
+counselling (Buchan, 2018).</p>
+<p><em>Research question: What are student’s views on how universities
+can support students and their mental health needs?</em></p>
 </div>
 
 ### Task 1b: Qualitative questions reflection

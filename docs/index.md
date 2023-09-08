@@ -2,7 +2,7 @@
 title: "RM2 ODL Qualitative Project Resources" # edit
 #subtitle: "optional" 
 author: "Wilhelmiina Toivo and Ashley Robertson" # edit
-date: "2023-08-30"
+date: "2023-09-08"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: oneside # for PDFs
