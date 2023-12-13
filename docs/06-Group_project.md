@@ -34,11 +34,13 @@ Introduce yourself to your group members on your Teams chat. In your introductio
 
 ### Activity 3: Group agreements
 
-We appreciate that group work can be challenging (and even more so if you are spread all over the World!) and we want to support you to have an enjoyable and educational group work experience. To that end, we would like each group to create a group agreement that all members sign. The purpose of this is for the group to come together and establish common ground and some rules that each of the group members is committed to. 
+We appreciate that group work can be challenging (and even more so if you are spread all over the World!) and we want to support you to have an enjoyable and educational group work experience. To that end, we would like each group to create a group agreement that all members sign. We also ask that you complete a task allocation and upload this with your agreement (they are in the same template). The purpose of this is for the group to come together and establish common ground and some rules that each of the group members is committed to. It also means that the group begins working with clearly allocated roles and tasks. This is not to mean that you cannot change tasks later, but it is helpful to set expectations from the outset. 
 
-Download the group agreement template from [HERE](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EX0j7-IboldEnapucgQ7h-YBERu8yPzvpIZa7R_AQu8jhw?e=QmqDXz). 
+Download the group agreement template from [HERE](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EcRHw5yd3v1JmFwm1drRu-MB33Im0__d6jRPqKbdnjjDzg?e=s7wEoU). 
 
-Then look at the list of potential items to include below, and as a group, discuss which items you want to include in addition to the standard ones provided, and if there are any you would like to edit or add outside of this list. Work on a collaborative document on OneDrive to create your group work agreement, and once the group is happy with their agreement, each group member should submit it to Moodle individually (on the Formative Activities tile). ***Please submit your group agreement by the end of week 14 of semester 1.*** If you haven't submitted your agreements, we will be in touch to check up on your group.
+Then look at the list of potential items to include below, and as a group, discuss which items you want to include in addition to the standard ones provided, and if there are any you would like to edit or add outside of this list. You will be able to find a sample list of tasks to include for the task allocation in Appendix 1 within the template. 
+
+Work on a collaborative document on OneDrive to create your group work agreement and task allocation, and once the group is happy with their agreement and initial tasks, each group member should submit it to Moodle individually (on the Formative Activities tile). ***Please submit your group agreement by the end of week 14 of semester 1.*** If you haven't submitted your agreements and task allocation, we will be in touch to check up on your group.
 
 **Group agreement items**
 
@@ -58,11 +60,9 @@ Here is a list of items you may want to discuss with your group and add to the g
 
 This document can be used as a checklist to do the group work for your qualitative portfolio. Give it a read and then discuss it with your group once you have your initial meeting. The effective group work guide can be found [HERE](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EZCuPb2m-MFMtAIGTAb2eM4B_ateTxqyR5X6YLceaL2Qcg?e=XeHk9h)
 
-### Activity 5: Group work planner
+### Activity 5: Group work planner (optional)
 
-You can access the planner template [HERE](https://tasks.office.com/gla.onmicrosoft.com/en-US/Home/Planner#/plantaskboard?groupId=07b6cc49-f02c-464d-a1f8-9a2c16e6b979&planId=XzmYoIr61k6qycSEWwbY6JYABfM1). Make one for your group, discuss the tasks together and assign them to members of your group.
-
-You MUST use the planner to coordinate your project  - in the event we need to mediate difficulties or evaluate the equity of peer contributions, this will involve you giving staff access to your project planner and/or providing other evidence as record/evidence of collaboration (or lack thereof). Please be mindful of this when conducting your project.
+You can access the planner template [HERE](https://tasks.office.com/gla.onmicrosoft.com/en-US/Home/Planner#/plantaskboard?groupId=07b6cc49-f02c-464d-a1f8-9a2c16e6b979&planId=XzmYoIr61k6qycSEWwbY6JYABfM1). We advise, although do not require, that you make one for your group, discuss the tasks together and assign them to members of your group. This is a good way to keep track of who is allocated to a task, and to modify tasks as required over the course of your project. 
 
 Work back from the deadline to establish tasks and when they need to be done. Discuss your strengths and what each person in the group would like to do.
 
@@ -78,28 +78,11 @@ Below, you will find a brief overview of a study topic. In this task, we would l
 
 <div class="info">
 <p><strong>Study overview</strong></p>
-<p>Universities provide support for students, and this support can come
-in many forms, from free counselling services to well-being advisors
-(Raunic &amp; Xenos, 2008).</p>
-<p>In one study, it was reported that only 3% of students used their
-university counselling service, and only 5% of those who were
-characterised as vulnerable based on questionnaire scores, used the
-services (Cooke et al., 2006). This suggests that the majority of
-students did not make use of services available.</p>
-<p>There are many reasons why students may not choose to seek help,
-including being unaware of services, low socio-economic status, being
-from different cultural background, embarrassment about having to seek
-help, and scepticism about the services (Eisenberg et al., 2007;
-Gulliver et al., 2010).</p>
-<p>Another issue around seeking support is that many who do chose to get
-help, have to wait long periods for appointments (Mowbray et al., 2006).
-In a recent article reported in the Independent, a waiting time of 4
-months was cited for some universities. These delays to support, can
-lead to emergence of mental health crises situations. Unfortunately, in
-this the University of Glasgow had one of the longest wait times for
-counselling (Buchan, 2018).</p>
-<p><em>Research question: What are student’s views on how universities
-can support students and their mental health needs?</em></p>
+<p>Universities provide support for students, and this support can come in many forms, from free counselling services to well-being advisors (Raunic &amp; Xenos, 2008).</p>
+<p>In one study, it was reported that only 3% of students used their university counselling service, and only 5% of those who were characterised as vulnerable based on questionnaire scores, used the services (Cooke et al., 2006). This suggests that the majority of students did not make use of services available.</p>
+<p>There are many reasons why students may not choose to seek help, including being unaware of services, low socio-economic status, being from different cultural background, embarrassment about having to seek help, and scepticism about the services (Eisenberg et al., 2007; Gulliver et al., 2010).</p>
+<p>Another issue around seeking support is that many who do chose to get help, have to wait long periods for appointments (Mowbray et al., 2006). In a recent article reported in the Independent, a waiting time of 4 months was cited for some universities. These delays to support, can lead to emergence of mental health crises situations. Unfortunately, in this the University of Glasgow had one of the longest wait times for counselling (Buchan, 2018).</p>
+<p><em>Research question: What are student’s views on how universities can support students and their mental health needs?</em></p>
 </div>
 
 ### Task 1b: Qualitative questions reflection

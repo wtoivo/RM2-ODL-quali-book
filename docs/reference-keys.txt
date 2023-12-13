@@ -81,7 +81,7 @@ activity-1-create-a-group-chat-and-set-up-an-initial-meeting
 activity-2-introductions
 activity-3-group-agreements
 activity-4-read-the-effective-group-work-document
-activity-5-group-work-planner
+activity-5-group-work-planner-optional
 qualitative-portfolio-guidelines-and-materials
 task-1a-qualitative-questions
 task-1b-qualitative-questions-reflection
