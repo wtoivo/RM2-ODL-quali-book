@@ -270,7 +270,19 @@ In this activity (5 mins):
   * Braun and Clarke’s familiarisation notes follow – reflect on similarities and differences in your and their analytic observations and ‘take’ on the data.
 
 <div class="info">
-<p>Andreas: …I sometimes try to erm not conceal it that’s not the right word but erm let’s say I’m in a in a seminar and somebody- a a man says to me ‘oh look at her’ (Int: mm) I’m not going ‘oh actually I’m gay’ (Int: mm [laughter]) I’ll just go like ‘oh yeah’ (Int: mmhm) you know I won’t fall into the other one and say ‘oh yeah’ (Int: yep) ‘she looks really brilliant’ (Int: yep) but I sorta then and after them you hate myself for it because I I don’t know how this person would react because that person might then either not talk to me anymore or erm might sort of yeah (Int: yep) or next time we met not not sit next to me or that sort of thing (Int: yep) so I think these this back to this question are you out yes but I think wherever you go you always have to start afresh (Int: yep) this sort of li- lifelong process of being courageous in a way or not …</p>
+<p>Andreas: …I sometimes try to erm not conceal it that’s not the right
+word but erm let’s say I’m in a in a seminar and somebody- a a man says
+to me ‘oh look at her’ (Int: mm) I’m not going ‘oh actually I’m gay’
+(Int: mm [laughter]) I’ll just go like ‘oh yeah’ (Int: mmhm) you know I
+won’t fall into the other one and say ‘oh yeah’ (Int: yep) ‘she looks
+really brilliant’ (Int: yep) but I sorta then and after them you hate
+myself for it because I I don’t know how this person would react because
+that person might then either not talk to me anymore or erm might sort
+of yeah (Int: yep) or next time we met not not sit next to me or that
+sort of thing (Int: yep) so I think these this back to this question are
+you out yes but I think wherever you go you always have to start afresh
+(Int: yep) this sort of li- lifelong process of being courageous in a
+way or not …</p>
 </div>
 
 

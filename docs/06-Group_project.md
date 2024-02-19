@@ -78,11 +78,28 @@ Below, you will find a brief overview of a study topic. In this task, we would l
 
 <div class="info">
 <p><strong>Study overview</strong></p>
-<p>Universities provide support for students, and this support can come in many forms, from free counselling services to well-being advisors (Raunic &amp; Xenos, 2008).</p>
-<p>In one study, it was reported that only 3% of students used their university counselling service, and only 5% of those who were characterised as vulnerable based on questionnaire scores, used the services (Cooke et al., 2006). This suggests that the majority of students did not make use of services available.</p>
-<p>There are many reasons why students may not choose to seek help, including being unaware of services, low socio-economic status, being from different cultural background, embarrassment about having to seek help, and scepticism about the services (Eisenberg et al., 2007; Gulliver et al., 2010).</p>
-<p>Another issue around seeking support is that many who do chose to get help, have to wait long periods for appointments (Mowbray et al., 2006). In a recent article reported in the Independent, a waiting time of 4 months was cited for some universities. These delays to support, can lead to emergence of mental health crises situations. Unfortunately, in this the University of Glasgow had one of the longest wait times for counselling (Buchan, 2018).</p>
-<p><em>Research question: What are student’s views on how universities can support students and their mental health needs?</em></p>
+<p>Universities provide support for students, and this support can come
+in many forms, from free counselling services to well-being advisors
+(Raunic &amp; Xenos, 2008).</p>
+<p>In one study, it was reported that only 3% of students used their
+university counselling service, and only 5% of those who were
+characterised as vulnerable based on questionnaire scores, used the
+services (Cooke et al., 2006). This suggests that the majority of
+students did not make use of services available.</p>
+<p>There are many reasons why students may not choose to seek help,
+including being unaware of services, low socio-economic status, being
+from different cultural background, embarrassment about having to seek
+help, and scepticism about the services (Eisenberg et al., 2007;
+Gulliver et al., 2010).</p>
+<p>Another issue around seeking support is that many who do chose to get
+help, have to wait long periods for appointments (Mowbray et al., 2006).
+In a recent article reported in the Independent, a waiting time of 4
+months was cited for some universities. These delays to support, can
+lead to emergence of mental health crises situations. Unfortunately, in
+this the University of Glasgow had one of the longest wait times for
+counselling (Buchan, 2018).</p>
+<p><em>Research question: What are student’s views on how universities
+can support students and their mental health needs?</em></p>
 </div>
 
 ### Task 1b: Qualitative questions reflection

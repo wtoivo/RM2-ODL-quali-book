@@ -61,8 +61,22 @@ When you are building your rationale, try to use multiple studies to show your r
 If you look at these paragraphs from Robertson et al. (2018), they are building the rationale for their study by showing how it expands on existing literature:
 
 <div class="info">
-<p>“Kerns and Kendall (2012) published an updated review of the prevalence of anxiety in individuals with ASD, and all studies fell within White et al. (2009)’s original range for anxiety symptoms (11–84%). It should be noted that, of the 24 studies included in the review, only two reported data for individuals older than 19 years of age (Bakken et al., 2010, Hofvander et al., 2009), which illustrates the need to also focus on adults with ASD in future research (Howlin, 2000).”</p>
-<p>“Secondly, as far as we are aware, there have been no qualitative studies investigating anxiety in autism using semi-structured interviews. Although focus groups and interviews are both good data collection methods for qualitative data, there is evidence that individual interviews tend to elicit a broader range of discussion points (Guest, Namey, Taylor, Eley, &amp; McKenna, 2017). Again, this further extends the previous investigation conducted by Trembath et al. (2012).”</p>
+<p>“Kerns and Kendall (2012) published an updated review of the
+prevalence of anxiety in individuals with ASD, and all studies fell
+within White et al. (2009)’s original range for anxiety symptoms
+(11–84%). It should be noted that, of the 24 studies included in the
+review, only two reported data for individuals older than 19 years of
+age (Bakken et al., 2010, Hofvander et al., 2009), which illustrates the
+need to also focus on adults with ASD in future research (Howlin,
+2000).”</p>
+<p>“Secondly, as far as we are aware, there have been no qualitative
+studies investigating anxiety in autism using semi-structured
+interviews. Although focus groups and interviews are both good data
+collection methods for qualitative data, there is evidence that
+individual interviews tend to elicit a broader range of discussion
+points (Guest, Namey, Taylor, Eley, &amp; McKenna, 2017). Again, this
+further extends the previous investigation conducted by Trembath et
+al. (2012).”</p>
 </div>
 
 **Tip 2: Focus your criticism**
@@ -72,7 +86,17 @@ When you are critically evaluating studies in your introduction, make  your crit
 If you look at this paragraph from Toivo & Scheepers (2019), they are identifying a gap/problem in existing literature and showing how the new study is addressing this:
 
 <div class="info">
-<p>“A potential issue in the above SCR studies (as well as in some of the cognitive studies discussed earlier) is that the stimuli were not very tightly controlled in terms of lexical variables (length, frequency, abstractness, etc.), or in terms of syntactic/pragmatic complexity when multi-word phrases were used. This, again, introduces a number of potential confounds (both within and across languages), making it difficult to separate effects of emotional resonance from those related to cognitive effort in word processing. In the present study, we aimed at eliminating such potential confounds by matching our stimuli on a number of lexical variables–as was done in the ERP studies discussed above [22, 23]–and by avoiding the use of translation equivalents.”</p>
+<p>“A potential issue in the above SCR studies (as well as in some of
+the cognitive studies discussed earlier) is that the stimuli were not
+very tightly controlled in terms of lexical variables (length,
+frequency, abstractness, etc.), or in terms of syntactic/pragmatic
+complexity when multi-word phrases were used. This, again, introduces a
+number of potential confounds (both within and across languages), making
+it difficult to separate effects of emotional resonance from those
+related to cognitive effort in word processing. In the present study, we
+aimed at eliminating such potential confounds by matching our stimuli on
+a number of lexical variables–as was done in the ERP studies discussed
+above [22, 23]–and by avoiding the use of translation equivalents.”</p>
 </div>
 
 **Tip 3: Draw arguments from related topics. **
@@ -82,8 +106,29 @@ Sometimes if your topic has not been studied much, it might be difficult to crea
 If you look at this paragraph from Mahrholz et al. (2018), it acknowledges that evidence on what they are looking at is scarce in voice perception, but the same effect has been found in face perception: 
 
 <div class="info">
-<p>"Similarly, looking at reliability of personality traits across presentation durations, Willis and Todorov [40] found that ratings of trustworthiness, competence, likeability, aggressiveness, and attractiveness for faces, showed moderate to strong positive correlations after 100 ms, 500 ms, and 1000 ms, when compared to ratings made without time constraints. Only participants’ confidence in their own judgements increased as a function of duration. Likewise, again using photographs of faces, Bar et al. [33] reported medium positive correlations between ratings at 39 ms and 1700 ms. The authors indicated that the lower threshold was sufficient for reliable assessments of threat but not intelligence, supporting the theory that rapid first impressions serve as a mean of self-preservation and help determine appropriate approach-avoidance behaviour [1, 33, 38]. The idea being that it should not require much information to decide whether a stranger is friend or foe. Finally, Todorov and colleagues [39] obtained a similar finding, again for faces, showing 33 ms of exposure to be sufficient to distinguish between trustworthy- and untrustworthy-looking stimuli. Whilst correlations with control ratings improved between 33 ms and 100 ms, increased exposure duration did not significantly increase the correlations.</p>
-<p>In voice research, though there are limited studies that consider the reliability of personality judgements across varying lengths of stimulus types, similar findings have been shown as in face research."</p>
+<p>“Similarly, looking at reliability of personality traits across
+presentation durations, Willis and Todorov [40] found that ratings of
+trustworthiness, competence, likeability, aggressiveness, and
+attractiveness for faces, showed moderate to strong positive
+correlations after 100 ms, 500 ms, and 1000 ms, when compared to ratings
+made without time constraints. Only participants’ confidence in their
+own judgements increased as a function of duration. Likewise, again
+using photographs of faces, Bar et al. [33] reported medium positive
+correlations between ratings at 39 ms and 1700 ms. The authors indicated
+that the lower threshold was sufficient for reliable assessments of
+threat but not intelligence, supporting the theory that rapid first
+impressions serve as a mean of self-preservation and help determine
+appropriate approach-avoidance behaviour [1, 33, 38]. The idea being
+that it should not require much information to decide whether a stranger
+is friend or foe. Finally, Todorov and colleagues [39] obtained a
+similar finding, again for faces, showing 33 ms of exposure to be
+sufficient to distinguish between trustworthy- and untrustworthy-looking
+stimuli. Whilst correlations with control ratings improved between 33 ms
+and 100 ms, increased exposure duration did not significantly increase
+the correlations.</p>
+<p>In voice research, though there are limited studies that consider the
+reliability of personality judgements across varying lengths of stimulus
+types, similar findings have been shown as in face research.”</p>
 </div>
 
 ### Activity 3: Active reading
@@ -119,8 +164,35 @@ In particular, identify:
   * How the authors link the findings to 'broader issues'
   
 <div class="info">
-<p>This study aimed to examine the experiences of autistic adults spending time with autistic and non-autistic family and friends using a thematic analysis framework. Social relationships are an important, though often complicated, part of autistic people’s lives. Previous research has tended to focus on autistic people’s relationships with (assumed) non-autistic friends and family. Here, we specifically contrasted relationships across and within neurotypes. The analysis revealed three themes: cross-neurotype understanding, minority status and belonging. The themes help us understand why relationships between autistic and non-autistic people might be so challenging, and how relationships between autistic people are different.</p>
-<p>The results align with previous research on the challenges that autistic people face when interacting with non-autistic others, but highlight that interactions with other autistic people are fundamentally different. All participants reported that spending time with non-autistic family and friends involved specific difficulties, which were not experienced when interacting with other autistic friends and family. This aligns with the double-empathy theory of autism which suggests that autistic and non-autistic people have a mutual difficulty in understanding and empathising with one another due to differences in how each person understands and experiences the world, rather than because of a communicative deficit on the part of the autistic person (Milton, 2012). Neurotypical people have been shown to overestimate how ego-centric their autistic family members are (Heasman &amp; Gillespie, 2018), and overestimate how helpful they are to autistic people (Heasman &amp; Gillespie, 2019). Our findings suggest that this translates into real-world difficulties in interactions with neurotypical friends and family that may affect the mental health, well-being and self-esteem of autistic people.</p>
+<p>This study aimed to examine the experiences of autistic adults
+spending time with autistic and non-autistic family and friends using a
+thematic analysis framework. Social relationships are an important,
+though often complicated, part of autistic people’s lives. Previous
+research has tended to focus on autistic people’s relationships with
+(assumed) non-autistic friends and family. Here, we specifically
+contrasted relationships across and within neurotypes. The analysis
+revealed three themes: cross-neurotype understanding, minority status
+and belonging. The themes help us understand why relationships between
+autistic and non-autistic people might be so challenging, and how
+relationships between autistic people are different.</p>
+<p>The results align with previous research on the challenges that
+autistic people face when interacting with non-autistic others, but
+highlight that interactions with other autistic people are fundamentally
+different. All participants reported that spending time with
+non-autistic family and friends involved specific difficulties, which
+were not experienced when interacting with other autistic friends and
+family. This aligns with the double-empathy theory of autism which
+suggests that autistic and non-autistic people have a mutual difficulty
+in understanding and empathising with one another due to differences in
+how each person understands and experiences the world, rather than
+because of a communicative deficit on the part of the autistic person
+(Milton, 2012). Neurotypical people have been shown to overestimate how
+ego-centric their autistic family members are (Heasman &amp; Gillespie,
+2018), and overestimate how helpful they are to autistic people (Heasman
+&amp; Gillespie, 2019). Our findings suggest that this translates into
+real-world difficulties in interactions with neurotypical friends and
+family that may affect the mental health, well-being and self-esteem of
+autistic people.</p>
 </div>
 
 
@@ -145,7 +217,20 @@ In particular, identify:
   * How the authors back up these suggestions to the existing literature base
   
 <div class="info">
-<p>There are a number of potential clinical applications for the findings detailed in this paper. They echo the modifications that are already undertaken for anxiety interventions designed for children and adolescents with ASD (Walters, Loades, &amp; Russell, 2016). For example, it may be important to include support for individuals undertaking an intervention for their anxiety. This has already been identified as helpful in anxiety management interventions for children with ASD (Sofronoff et al., 2005), but the evidence here suggests that this might also be the case for adults. Furthermore, as adults reported feeling that they enjoyed interacting with other autistic people, it would be important to test whether running autism-only groups in terms of anxiety interventions helps outcomes or other aspects related to the feasibility of anxiety management programs (e.g. retention of participants).</p>
+<p>There are a number of potential clinical applications for the
+findings detailed in this paper. They echo the modifications that are
+already undertaken for anxiety interventions designed for children and
+adolescents with ASD (Walters, Loades, &amp; Russell, 2016). For
+example, it may be important to include support for individuals
+undertaking an intervention for their anxiety. This has already been
+identified as helpful in anxiety management interventions for children
+with ASD (Sofronoff et al., 2005), but the evidence here suggests that
+this might also be the case for adults. Furthermore, as adults reported
+feeling that they enjoyed interacting with other autistic people, it
+would be important to test whether running autism-only groups in terms
+of anxiety interventions helps outcomes or other aspects related to the
+feasibility of anxiety management programs (e.g. retention of
+participants).</p>
 </div>
 
 ### Limitations
@@ -171,7 +256,24 @@ In particular, identify:
   * How do the authors back up their arguments with evidence from the literature base?
   
 <div class="info">
-<p>One concern might be that we did not explicitly control for L2 proficiency in our sample of bilinguals, which is likely to affect cognitive effort in processing L2. However, all of our bilingual participants (a) self-reported to be highly proficient in English, (b) were Glasgow University students using English as their language of study, and (c) had been living in an English-speaking country for minimum of three months (average: two years and four months) when the study was conducted. Together with the fact that post-trial word recognition rates were well above 90% across participant groups and conditions (Fig 2), we do not believe that variation in L2 proficiency was large enough to have a major impact on our results. That said, we agree that proficiency should ideally be controlled for in future research, e.g. by adding a suitable measure as another person-specific covariate in the analyses. Previous research had identified proficiency as a potential mediating factor of perceived emotionality in the Bilingualism and Emotions Questionnaire [50], and it had also been suggested that bilinguals with close-to-native proficiency in L2 show similar affective processing in L1 and L2 [19].</p>
+<p>One concern might be that we did not explicitly control for L2
+proficiency in our sample of bilinguals, which is likely to affect
+cognitive effort in processing L2. However, all of our bilingual
+participants (a) self-reported to be highly proficient in English, (b)
+were Glasgow University students using English as their language of
+study, and (c) had been living in an English-speaking country for
+minimum of three months (average: two years and four months) when the
+study was conducted. Together with the fact that post-trial word
+recognition rates were well above 90% across participant groups and
+conditions (Fig 2), we do not believe that variation in L2 proficiency
+was large enough to have a major impact on our results. That said, we
+agree that proficiency should ideally be controlled for in future
+research, e.g. by adding a suitable measure as another person-specific
+covariate in the analyses. Previous research had identified proficiency
+as a potential mediating factor of perceived emotionality in the
+Bilingualism and Emotions Questionnaire [50], and it had also been
+suggested that bilinguals with close-to-native proficiency in L2 show
+similar affective processing in L1 and L2 [19].</p>
 </div>
 
 ### Thematic analysis evaluation
