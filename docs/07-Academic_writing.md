@@ -135,6 +135,76 @@ types, similar findings have been shown as in face research.”</p>
 
 When you are reading journal articles, make sure to take notes and think of how each article can be used to build your rationale in the introduction. Here is a resource you can use to help structure your notes about the studies you are going to use for your introduction: [INTRODUCTION NOTES DOCUMENT](https://gla-my.sharepoint.com/:w:/g/personal/wilhelmiina_toivo_glasgow_ac_uk/EXPNU5j4pQhKvRMYVx8dBvcBs85f4Z8q1V21wSokGOIbCA?e=eg7zd0)
 
+## Evaluation in your analysis section
+
+### Activity 1: Complete this to improve your evaluation for your thematic analysis, (as well as the discussion section). You may have already completed this as a part of your Data analysis chapter, but if you haven't please do it now. We ask you to compare two published papers against some of the qualitative report ILOs. You can access the activity [HERE](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EUiKwKgdqr1CsLeOxy5O42kBGNLxmbdeTqANFRu0caPcBA?e=BpEpBb)
+
+### Activity 2: Going deeper in your analysis
+
+One of the characteristics of a strong analysis section is that the writer demonstrates an ability to go beyond paraphrasing/summarising. This activity is designed to help you understand what might be involved in doing so. 
+
+Read the following two extracts from an Analysis section and discuss these questions:
+
+1. Which of the two examples is better? Why?
+2. What have the authors done that makes the analysis better?
+
+<div class="info">
+<p><strong>Extract 1 - from a study about the impact of the COVID
+pandemic</strong></p>
+<p>Sarah spoke of using her leisure time to plan and fantasise about her
+wedding:</p>
+<p><em>“it’s enough of a fantasy… it’s meant to be stressful, but it’s
+really just been fun. It’s like such a nice break from this humdrum life
+we’re living in right now” (Sarah: lines 459-461).</em></p>
+<p>Organising a significant life event seems to be viewed as granting
+Sarah an escape from her current monotony. While she refers to it as a
+“fantasy”, potentially given uncertainty of the pandemic’s progression,
+she appears to perceive this as constructive and realistic for her
+future self. Alternately, Mandy’s leisure activity involved impossible
+daydreams:</p>
+<p><em>“I started daydreaming more ridiculous stuff… I know it’s never
+going to come true ’cause it’s not real, but it still entertains me”
+(Mandy: lines 443-444)</em></p>
+<p>While Mandy seems to be under no illusion that her daydreams are
+feasible, daydreaming impossible scenarios appears to provide more of a
+release than realistic situations that are subject to ever changing
+government regulations (e.g. travel bans) that may fall through.</p>
+</div>
+
+
+<div class="info">
+<p><strong>Extract 2 - from a study about social media use during the
+pandemic</strong></p>
+<p>Some participants said it was difficult to fall asleep at night,
+including those who knew they should fall asleep but could not (<em>“if
+I can’t stay up and can’t sleep”- Sarah</em>), or participants
+subjectively thought that they did not need sleep or did not want to
+fall asleep (<em>“I am not really able to sleep at night, or like, sleep
+isn’t really needed.”</em> -Andrew)</p>
+<p>Participants said that they used social media but that it was only
+positive at certain points:</p>
+<p><em>I feel like TikTok was fun in the first lockdown during the
+summer,’cause of all this summer content I guess, but after that it
+really went downhill. I don’t know like, OK personally I deleted all my
+apps about three weeks ago</em> (John)</p>
+<p>John tells us here that he deleted all his apps, because they all
+went ‘downhill’. Tik Tok was helpful during the first lockdown, but not
+after it.</p>
+</div>
+
+
+<div class='webex-solution'><button>Show me the answer</button>
+
+Example 1 (COVID):  
+This is the better example, because it goes beyond paraphrasing. The researcher is analysing the quotes and have engaged with the meaning behind the words. Each quote is selected in a way that helps the author build a narrative of what is happening in the data 
+
+Example 2 (sleep): 
+This is the weaker example, because the author just paraphrases what the participants say. This ends up not adding any real value in terms of analysis, because the reader could just read the quote. The narrative needs to analyse the data and show the reader why they interpret something in a particular way.  
+
+</div>
+
+
+
 ## Evaluation in discussions
 
 In this section, we aim to provide some guidance about how to go beyond description in your writing. We will specifically focus on the Discussion section for your RM2 qualitative report here, but
@@ -276,9 +346,7 @@ suggested that bilinguals with close-to-native proficiency in L2 show
 similar affective processing in L1 and L2 [19].</p>
 </div>
 
-### Thematic analysis evaluation
 
-This section has one activity for you to complete to improve your evaluation for your thematic analysis, as well as the discussion section. You may have already completed this as a part of your Data analysis chapter, but if you haven't please do it now. We ask you to compare two published papers against some of the qualitative report ILOs. You can access the activity [HERE](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EUiKwKgdqr1CsLeOxy5O42kBGNLxmbdeTqANFRu0caPcBA?e=BpEpBb)
 
 ### Anything else?
 
