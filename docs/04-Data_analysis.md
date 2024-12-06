@@ -1,35 +1,36 @@
 # Data analysis
 
-This chapter has activities to support you with Thematic Analysis. This chapter, alongside with Ashley's lectures, will talk you through the six steps required for TA; we advise using Braun & Clarke (2006) to structure your data analysis. This can be accessed through the library, using the following link: https://tinyurl.com/ybrsf5eg. There is also a good overview in Braun & Clarke (2013), which is on the reading list.
+This chapter has activities to support you with Thematic Analysis. This chapter, alongside with Ashley's lectures, will talk you through the six phases required for TA; we advise using Braun & Clarke (2022) to structure your data analysis. This can be accessed through the library, using the following link: https://go.exlibris.link/Z9qxllzH. There is also a good overview in Braun & Clarke (2013), which is on the reading list.
 
 **Overview of the steps of TA**
 
-  1. Familiarisation with the data
-  2. Generating initial codes
-  3. Searching for themes
-  4. Reviewing themes
-  5. Defining and naming themes
-  6. Producing the report
+  1. Familiarisation (p.42 in the Braun & Clarke (2022) book)
+  2. Doing coding (p.59)
+  3. Generating initial themes (p.78)
+  4. Developing and Reviewing themes (p.97)
+  5. Refining, Defining and Naming themes (p.108)
+  6. Writing up your analysis (p.118)
 
 
-## Coding (steps 1-2)
+## Coding (Phases 1-2)
 
-Here, we'll focus on Steps 1 and 2 of the process. These can be found on pages 87-89 of the Braun & Clarke (2006) paper. We also covered how to do the analysis in the Thematic Analysis lecture in Semester 1 Week 12.
+Here, we'll focus on Phases 1 and 2 of the process. Familiarisation starts on p.42 and Coding starts on p.59 of the Braun & Clarke (2022) book. We also covered how to do Phases 1 and 2 of the analysis in the Thematic Analysis lecture in Semester 1 Week 11.
 
-### Step 1: Familiarisation with the data
+### Phase 1: Familiarisation (p.42)
 
   * Transcribing (or sorting/anonymising your transcript) helps you to become more familiar with your data
   * Read over the transcript, but do it in an 'active' way. This means reading while searching for meanings and patterns
-  * Note down anything of interest that comes up
+  * Note down anything of interest that comes up, either in a particular part of a transcript or thinking about the overall dataset
 
 **Practical steps:**
 
-Read through your transcript and take notes and/or make comments in the margins. Generate a list of ideas: what is interesting about the discussion?
+Read through your transcript and take notes and/or make comments in the margins. Generate a list of ideas: what is interesting about the discussion? Are there any contradictions that you spot? What patterns do you observe?
 
-### Step 2: Generating initial codes
+### Phase 2: Generating initial codes (p.59)
 
   * Codes identify a feature of the data that seems interesting
   * The process of coding involves going through the transcript and thinking about the data, and picking out what seems interesting/important.
+  * Try to apply short, specific, labels to each part of the transcript as you go through it.
   * Coded data is specific (themes, which come later, are broad) -you will likely end up with quite a lot of different codes.
   * Code for as many patterns as you can at this point  - it won't all make it to the next stage, but it's good if you pick up as much as you can at this stage.
   
@@ -76,63 +77,66 @@ It's time to have a go at coding yourself now!
 Read through [this transcript](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ERHhgbPHADBJuJHk7e2yMtYBb1ddJMCTckAvoXpXB0UYFA?e=UFwJqE), taking brief notes individually the first time you read it. What things did you pick up? If working with others, discuss your codes  - what were the similarities/
 differences?
 
-## Developing themes (steps 3-6)
+## Developing themes (Phases 3-6)
 
-Here, we'll focus on Steps 3 to 6 of the process. These can be found on pages 89-93 of the Braun & Clarke (2006) paper. We also covered how to do Step 3 in in the lecture for Semester 1 Week 11, while Steps 4-6 were  Semester 1 Week 12. For these activities, you are welcome to do them individually or in pairs/small groups  - whichever you prefer!
+Here, we'll focus on Phases 3 to 6 of the process. You can find information on each of these phases in the Braun & Clarke (2022) book: Generating Initial Themes (p.78), Developing and Reviewing Themes (p.97), Refining, Defining and Naming Themes (p.108) and Writing up your Analysis (p.118). We also covered how to do Phase 3 in in the lecture for Semester 1 Week 11, while Steps 4-6 were in Semester 1 Week 12. For these activities, you are welcome to do them individually or in pairs/small groups  - whichever you prefer!
 
-### Step 3: Searching for themes
 
-  * In this stage, you should sort the codes into potential themes. Here, you will start to analyse your codes, and consider how they might combine to form an overarching theme.
+### Phase 3: Generating initial themes (p.78)
+
+  * In this stage, you should sort the codes into potential themes. Here, you will start to analyse your codes, and consider how they might share an idea or concept.
   * It might be helpful to visualise this in some way, and see how the codes fit together.
   * You may have codes that don’t seem to fit anywhere, others will fit neatly into themes, others might be in sub-themes
-  * You end this step with a collection of candidate themes (and/or sub-themes)
+  * You end this step with a collection of candidate themes (and potentially sub-themes)
 
 **Practical steps:**
 
-  * Start to group your initial codes into broader themes.
-  * Can you see a pattern across different codes?
+  * Start to group your initial codes together
+  * Can you see a pattern of shared meaning across different codes?
   * What are the similarities across codes?
   * End this stage by collating all the coded quotes relevant to each theme.
   * Themes can be descriptive or interpretative (see Braun & Clarke, 2013, Ch 11). 
   * Using tables or mind maps at this stage can be helpful
   
-### Step 4: Reviewing themes
+### Phase 4: Developing and Reviewing themes (p.97)
 
-This step involves two levels of reviewing and refining
+In Phase 4, you check your themes to see whether they make sense a) when you look at the coded extracts for that theme and b) when you look at the whole dataset.
 
-*Level 1*
+*Checking the coded extracts*
 
-Reviewing at the level of the coded extracts. Read all the collated extracts for a theme…do they form a coherent pattern?
+Reviewing at the level of the coded extracts. Read all the collated extracts for a theme…do they form a coherent pattern? Do they tell an important story about shared meaning? Are you sure they are themes rather than topic summaries? 
 
-If they do, then move on to Level 2.
+If they seem like themes and the coded extracts fit well underneath them, then move on to checking the themes against the dataset.
 
-If they don’t, is it the case that a) the theme itself is problematic or b) the theme is fine, but some of the data doesn’t fit?
+If they don’t, is it the case that a) the theme itself is problematic and needs reworked or b) the theme is fine, but some of the data doesn’t fit?
 
-*Level 2*
+*Checking themes against the whole dataset*
 
-Look across the entire dataset and consider the validity of your theme(s) – does it accurately reflect the meanings in the dataset?
+Look across the entire dataset and consider your theme(s) – do they accurately reflect the meanings in the dataset? Do they tell you about the important patterns that you observed in the dataset?
 
 **Practical steps:**
 
   * This involves checking that the themes ‘work’ in relation to both the coded extracts and the full data-set.
   * Reflect on whether the themes tell a convincing and compelling story about the data, and begin to define the nature of each individual theme, and the relationship between the themes.
   * It may be necessary to collapse two themes together or to split a theme into two or more themes, or to discard the candidate themes altogether and begin again the process of theme development.
+  * It may be that your theme is actually a topic summary and needs reworked.
   * Not every participant will make specific reference to every theme - that is ok - but think about how each person is represented in the analysis.
   * It can be helpful at this stage to group the relevant quotes together that represent each given theme
 
-### Step 5: Defining and naming themes
+### Phase 5: Refining, Defining and Naming Themes (p.108)
 
-  * During this step, you should define and refine the themes.
+  * During this phase, you should define and refine the themes.
   * Define and refine = identifying what this theme is about, what aspect of the data is captured by each theme?
   * For each theme, you need to conduct and write a detailed analysis
   * In your report, you will report one theme with sub-themes or two themes (no subthemes) – do they explain different things without overlapping too much?
+  * Try to choose names for themes that are not one word or likely to indicate topic summaries (see the Semester 1 Week 11 Lecture if you want to revisit this)
 
 **Practical steps:**
 
   * This involves being able to explain each theme: 'What story does this theme tell?’ and ‘how does this theme fit into the overall story about the data?’.
   * Identify the ‘essence’ of each theme and construct a concise, punchy and informative name. Usually, you would aim for two themes for the qualitative report
   
-### Step 6: Producing the report
+### Phase 6: Writing up your Analysis (p.118)
 
   * The analysis should provide a concise, coherent, logical, non- repetitive and interesting account
   * The write up must provide sufficient evidence of the theme(s) (this is where the quotes come in!)
@@ -141,14 +145,14 @@ Look across the entire dataset and consider the validity of your theme(s) – do
 **Practical steps:**
 
   * For the RM2 qualitative report, you should report either two themes (no subthemes) or one theme with 2-3 sub-themes. This is to allow you to balance depth and breadth.
-  * Each theme should include approx. three quotes to illustrate it in the write up. Think about which quotes best illustrates your them.
+  * As a rough guide, each theme should include approx. two to five quotes to illustrate it in the write up. Think about which quotes best illustrates your analysis.
   * If you are doing a qualitative dissertation, you will have scope to go further with your analysis; it is a good idea to discuss your data with your supervisor throughout the analytic process.
   
 ### Activities
 
 #### Activity 1: Try it yourself!
 
-We've provided the same transcript as for steps 1-2, but it's a little longer (to give you more scope to develop themes) - you can find it [here](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EZaA8YkYkyVGkwn0cEDFLCABWr5rREIlMAyIaAPHu3juTg?e=QgyPdd). You can use the codes you developed last time (adding to them for the additional parts of the transcript), or you can recode the data again if you prefer - either option is fine.
+We've provided the same transcript as for phases 1-2, but it's a little longer (to give you more scope to develop themes) - you can find it [here](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EZaA8YkYkyVGkwn0cEDFLCABWr5rREIlMAyIaAPHu3juTg?e=QgyPdd). You can use the codes you developed last time (adding to them for the additional parts of the transcript), or you can recode the data again if you prefer - either option is fine.
 
   * Once you have your codes, try to organise them into themes.
   * Group together the codes that seem similar in some way - can you think of an overarching 'theme' that describes them? 
@@ -326,6 +330,7 @@ Three themes were presented in the analysis: "Two themes capture contradictory i
   * Thematic analysis that fails to address the research question.
   * Unconvincing or under-developed analysis: 1) Too many or too few themes 2) Too much overlap between themes or themes are unrelated 3) Themes are vague or not internally consistent or coherent
   * Little or no analytic work has been carried out (for example, using data collection questions as ‘themes’).
+  * Topic summaries being presented as themes
   * Mismatch between data and analytic claims (e.g. going beyond what your participants say)
   * Too few or too many data extracts (and little or no analytic commentary).
   * Paraphrasing rather than analysing and interpreting data
