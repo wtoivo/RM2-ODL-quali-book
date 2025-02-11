@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-This page was last updated 30/08/23
+This page was last updated 11th Feb 2025
 
 ## General Project questions
 
@@ -16,7 +16,7 @@ Re. the timescales - we would advise that you start working (or at least thinkin
 **Where can I find information about the qualitative portfolio?**
 You can find information about the portfolio in the template, the guidelines, the AIS and the video Wil recorded. You can access the materials in [chapter 6](https://wtoivo.github.io/RM2-ODL-quali-book/group-project.html) of this book.
 
-**What is the word count for each section? (ADD LINKS)**
+**What is the word count for each section?**
 This is in the template, but it can be broken down as follows: Activity 1a (no word limit for the six questions), Activity 1b (250 words), Activity 2 (250 words), Activity 3 (500 words).
 
 **In the answers, should we use or avoid acronyms such as BPS and GDPR?**
@@ -74,6 +74,8 @@ Theoretically yes, although we've never seen this asked before so wouldn't know 
 
 **What should we focus our reflection on? About half of the word count in our reflection is currently taken up by an evidence-based discussion of why we opted for the FG format over the interview as this really guided how we constructed the questions thereafter. I just want to know if such a focus is correct or if you're looking for discussion to centre more around a specific question or two that we chose?**
 
+There is no one correct way to structure the reflection. We are interested in how you found the experience and why you made the decisions that you did in constructing your list of questions. We often see reflections on why people chose a particular approach for their questions too (e.g. focus group over interview/survey).
+
 **You have advised that we choose 1 or 2 issues and go into their depth when answering the questions on ethics and the terrible FG. What do you recommend we do for the reflections on the questions in task 1? Do we for instance speak about why we chose a specific approach over the other? Why we chose these specific questions? Challenges we faced etc. Or do we combine everything? Now, we have 250 words of a general reflection on FGs, guideline designing on the topic under discussion, challenges we faced, and what we couldn't get with citations of course. I'm wondering if we should be more focused and try to answer only 1 point?**
 Basically, we don't specify what you can and can't reflect on, so as long as it's relevant (which this is), then you have some flexibility :) It is a very open question and we are anticipating lots of different ways of answering this one in particular. The main thing is to follow the guidelines that have been given and to look at the ILOs, to see how well you think your response is meeting them
 
@@ -83,9 +85,37 @@ Yes, this would be completely appropriate to discuss as part of reflexivity. It'
 **We have included a short rationale on why we chose a focus group which is placed before the six questions. Will this short paragraph be included within the word count for the whole portfolio or will it not count as part of the 1000 words?**
 A rationale (if you choose to include it) should be in 1b. The only thing not included in the word count within the activities themselves is the actual questions of Activity 1a
 
+**Do prompts/probes have to be phrased as a question or can they be more of a statement?**
+They will usually be framed as a question but it is fine to write them as a statement for this assignment if you prefer. 
+
+**Do we need to define terms such as open-ended questions?**
+No, there isn't space for this within the word count for this particular assignment
+
+**If we're including our group member's experiences for reflexivity, should we name them, or just refer to them as 'group member'?**
+You can either use initials or "group member", either one would be fine
+
+**Within the questions we are setting for our group project - would it be appropriate to name "University of Glasgow" for instance or would it be best to keep to just "University" in general?**
+We would suggest just sticking to University, rather than specifying the University of Glasgow in particular.
+
+**is it OK to assume that the participants work in the same university as its important for a point we've made in the moderating?**
+Yes, this is fine :)
+
+
 ### Task 2: Ethics
 
+**Should we connect our answer to Question 2 to what we did for Q1?**
+No, there is no expectation that Activity 2 is linked to Activity 1 (although Activites 1a and 1b need to be linked to each other).
+
+**Can you tell us where people tend to go most wrong in this particular question?**
+Sometimes, groups will focus more on ethical issues that are relevant for quantitative research, or research in general, rather than specifically thinking about qualitative research. This is something that is best avoided as it doesn't answer the question that is set. 
+
 ### Task 3: Focus group gone wrong
+
+**For focus group, do we have to back the issue with specific observations from the video? E.g @ 4.05min X did what, which is an issue because...**
+No, this would likely take up too many words. 
+
+**Is there a preference for either moderator or facilitator?**
+No, these are interchangeable and either is fine
 
 **Are we to only quote peer reviewed literature in support of our argument, or can we quote for example from the Braun and Clarke book?**
 No, it's fine to cite Braun & Clarke and there might also be guides/opinion pieces etc. - these would also be fine to use in support. Also, it's fine to use older evidence too - we do realise there's unlikely to be lots of 2022/2023 papers out there on how to do a focus
