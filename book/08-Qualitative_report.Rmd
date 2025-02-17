@@ -4,11 +4,11 @@ In this section, you will find information and guidance about your qualitative r
 
 ## What is the qualitative report?
 
-You will be asked to write an individual qualitative report on one of three secondary data topics. You should conduct Thematic Analysis on your chosen dataset.Watch this [video](https://uofglasgow.zoom.us/rec/share/KFeMg1TaIK3czVZrKJHNtQ0vLugxr4-fb0lHsZJQWqi6jgFL9pSS-vKAOQU7I7fS.pZU37ZSGefRB6JtE) for an overview about the report, and make sure you have accessed the [AIS](https://sway.office.com/KWdOZnNK1oM1FULn?ref=Link) and [FIS](https://sway.office.com/ZlNI4cWd8XWncVQE?ref=Link) on Moodle before you start working on the report. 
+You will be asked to write an individual qualitative report on one of five secondary data topics. You should conduct Thematic Analysis on your chosen dataset.Watch this [video](https://uofglasgow.zoom.us/rec/share/acSEJKwVKTMRE0eg0mHiOl6Oqtri-2YsBe-AFF2IPdvXmn6M8wqc21S2jJYjc14.5I6SoaRwKI_WVKWF?startTime=1739792864000) for an overview about the report, and make sure you have accessed the [AIS](https://sway.office.com/KWdOZnNK1oM1FULn?ref=Link) and [FIS](https://sway.office.com/ZlNI4cWd8XWncVQE?ref=Link) on Moodle before you start working on the report. 
 
 ## Report datasets and how to use UK data service
 
-Before accessing your datasets, watch [THIS VIDEO](https://uofglasgow.zoom.us/rec/play/vsROyrWqPj8G3f21Tff5nCJ4iXOUSGCu7BT7N4xg7zMWIU9tCJPsTT4pEcJfD46tjf01xtdffznX__oq.3cjWmKRYD1qOsQzX?canPlayFromShare=true&from=share_recording_detail&startTime=1676397171000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fuofglasgow.zoom.us%2Frec%2Fshare%2FFtJDqqO9WKzzIZz6exHF2K4FJQJMcHQyrxF-btchS3lUd0q-UY6mYDq1u3zttqzQ.sQK03tO0hhi67guf%3FstartTime%3D1676397171000) on how to use UK data service and for a bit of information about the datasets. Please note that two of the datasets are on sensitive topics, and contain information that may be upsetting; make sure to familiarise yourself with the interview schedules and have a quick scan of the data before you decide which dataset to work with. 
+Before accessing your datasets, watch [THIS VIDEO](https://echo360.org.uk/media/ac815f47-bb97-40cc-8c34-d82d74e4bb0e/public) on how to use UK data service. It shows you an example of how to download the data with one of the datasets. Please note that some of the datasets are on sensitive topics, and contain information that may be upsetting; make sure to familiarise yourself with the interview schedules and have a quick scan of the data before you decide which dataset to work with. 
 
 You can access the UK data service [HERE](https://beta.ukdataservice.ac.uk/myaccount/login)
 
@@ -16,7 +16,9 @@ You can choose one of the three available datasets:
   
   1. [Interviews with disabled young people and carers](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=854556)
   2. [LGBT+ networks in the workplace](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=855322)
-  3. [Incentives of sharing research data](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=851540)
+  3. [Long-term relationships](https://reshare.ukdataservice.ac.uk/851244/)
+  4. [Patient descriptions of PMS](https://reshare.ukdataservice.ac.uk/855486/)
+  5. [Student experiences of loneliness and social connectedness](https://reshare.ukdataservice.ac.uk/856114/)
 
 ## Developing a research question
 
