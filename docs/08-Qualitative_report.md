@@ -71,7 +71,7 @@ This guide is intended to help you in the write up of your qualitative project r
 
   * Your feedback for your RM1 report
   * Braun & Clarke (2013) have an excellent chapter on writing up qualitative research
-  * [Braun & Clark (2006) paper](https://glasgow.summon.serialssolutions.com/#!/search?ho=t&include.ft.matches=t&l=en-UK&bookMark=eNp1kEtLAzEUhYNUsK3-AHeD4HI0N-8BN1J8QcGNXYfMNGlTpsk0mSLz751ScCPuLuee73A4MzQJMViEbgE_AFTwCEwqrJTE4tBhQaO5QNOTVmJV8cnvreQVmuW8w5jIitMpul9lHzZFv7V70_umMMG0Q_a58KHo8tBsYxs3wzW6dKbN9gZN-nS0c7R6fflavJfLz7ePxfOyBMKxKKWASlIjXc3AMVDAa4Wh4sysGSFW8EawBsYfV8LV1DLOaiqJVYTVtl43dI7uzrldioejzb3exWMaG2VNCAXKOYHRBGdTk2LOyTrdJb83adCA9WkL_WeLkXk6Mz64mPbmO6Z2rXsztDG5ZELjs6b_4z_16mX_)
+  * [Braun & Clark (2022) book](https://go.exlibris.link/Z9qxllzH)
   * All the resources available in this book (particularly sections for 4. Data analysis and 7. Academic writing)
   * [Published articles which use a Thematic Analysis](https://rl.talis.com/3/glasgow/lists/AC35252A-659D-A481-3C23-4804E0DCE12A.html?lang=en&login=1#E2A84D1A-1487-81E6-3AD4-8D18AF2FFE8D)
   * [A helpful resource for APA formatting is OWL Purdue](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html)
@@ -245,9 +245,10 @@ References both in the main body of text and in the reference list are structure
 An appendix (plural: appendices) is a supplementary document which forms part of a main document but is not essential for its completeness, containing supporting information, and usually appearing at the end. 
 
 The appendix can often hold a lot of information.  In the qualitative report we ask you to include the following in the appendices of the report: 
-  * A list of the interviews you have chosen and a link to the original dataset (you should not include the transcripts themselves)
-  * A sample of initial coding of the transcript
-  * You might also have a list of the interview questions (if easily obtained from your transcripts or study documentation on UK data service)
+
+  * A list of the interviews you have chosen and a link to the original dataset (you should not include the transcripts themselves) 
+  * A sample of initial coding of the transcript 
+  * You might also have a list of the interview questions (if easily obtained from your transcripts or study documentation on UK data service) 
   
   
 #### Further reading
